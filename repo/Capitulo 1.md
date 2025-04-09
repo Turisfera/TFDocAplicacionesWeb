@@ -30,3 +30,22 @@ A través de nuestra plataforma TripMatch, brindamos un espacio donde los usuari
 #### 1.2.2.3. Lean UX Hypothesis Statements
 #### 1.2.2.4. Lean UX Canvas
 ## 1.3. Segmentos Objetivos
+**Segmento #1: Turistas**
+Este segmento está conformado por viajeros que buscan experiencias únicas y adaptadas a sus intereses y presupuestos. Se dirigen tanto a jóvenes aventureros como a familias y profesionales que desean descubrir destinos novedosos y actividades locales.
+- Aspectos demográficos:
+  - Sexo: Masculino y femenino
+  - Edades: Entre 18 y 65 años
+- Aspectos psicográficos:
+  - Motivaciones: Vivir experiencias auténticas, apoyar el turismo local, evitar intermediarios innecesarios y optimizar su tiempo en la planificación.
+  - Intereses: Turismo responsable, culturas locales, aventura, gastronomía típica y actividades fuera de lo convencional.
+  - Comportamiento: Investigan opciones antes de reservar, comparan precios y valoran reseñas reales. Prefieren plataformas intuitivas que les permitan filtrar por preferencias específicas como duración, presupuesto, tipo de viaje, etc.
+
+**Segmento #2: Agencias de Turismo**
+Este segmento agrupa a aquellas agencias y operadores turísticos que buscan ampliar su alcance y optimizar la gestión de sus servicios a través de canales digitales. Incluyen tanto pequeñas empresas emergentes como agencias consolidadas que desean modernizar sus procesos y alcanzar a un público más amplio mediante la reserva en tiempo real.
+- Aspectos demográficos:
+  - Tipo de negocio: Pequeñas y medianas agencias de turismo, y guías independientes.
+  - Ubicación: Destinos turísticos con enfoque en experiencias culturales, ecológicas o de aventura.
+- Aspectos psicográficos:
+  - Motivaciones: Digitalizar su negocio, aumentar reservas directas, reducir costos de intermediación y fidelizar clientes mediante experiencias memorables.
+  - Intereses: Innovación en turismo, marketing digital, sostenibilidad y herramientas que simplifiquen la gestión de reservas y consultas.
+  - Comportamiento: Activos en redes sociales, dispuestos a adoptar tecnología accesible y con interés en destacar su propuesta de valor.
