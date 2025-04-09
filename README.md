@@ -20,7 +20,7 @@
 |-----------|-------------------------------|
 |U20231C505| Marcia Victoria Melgarejo Gomez|
 |U202311258| María Patricia Hernández Uchuya|
-|     |      |
+|U20211G671| Britney Delhy Qqueso Rodriguez |
 |     |      |
 |     |      |
 |     |      |
