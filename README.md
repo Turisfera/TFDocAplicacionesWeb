@@ -19,8 +19,8 @@
 |Código     |Nombre                         |
 |-----------|-------------------------------|
 |U20231C505| Marcia Victoria Melgarejo Gomez|
-|    |      |
-|    |      |
+|U202311258| María Patricia Hernández Uchuya|
+|     |      |
 |     |      |
 |     |      |
 |     |      |
