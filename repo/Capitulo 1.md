@@ -9,7 +9,7 @@ A través de nuestra plataforma TripMatch, brindamos un espacio donde los usuari
 
 **Visión:** Convertirnos en la plataforma de referencia para la planificación y reserva de experiencias turísticas, destacándonos por promover el turismo responsable, la innovación tecnológica y el fortalecimiento de agencias locales. Aspiramos a ser una solucion global que conecte millones de viajeros con sus destinos a través de unos clicks. 
 
-**Valores:** 
+**Valores:** Defendemos la integridad, la innovación y el turismo sostenible. Aseguramos precisión en la información, apoyamos a agencias locales y ofrecemos experiencias personalizadas para garantizar viajes auténticos, seguros y responsables.
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
