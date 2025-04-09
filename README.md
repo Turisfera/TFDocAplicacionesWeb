@@ -29,4 +29,5 @@
 
 ## Contenido 
 
-1.[Capítulo I: Introducción](./repo/Capitulo%201.md)
+1. [Capítulo I: Introducción](./repo/Capitulo%201.md)
+2. [Capítulo II: Requirements Elicitation & Analysis](./repo/Capitulo%202.md)
