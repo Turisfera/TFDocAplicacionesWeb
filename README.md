@@ -10,8 +10,8 @@
 
 **Sección:** 4371  
 **Docente:** Naldo Reupo-Musayon Gastulo  
-**Nombre de la Startup:** --  
-**Nombre del producto:** --
+**Nombre de la Startup:** Turisnap  
+**Nombre del producto:** TripMatch
 
 
 ### Integrantes: 
