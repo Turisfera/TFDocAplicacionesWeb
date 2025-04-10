@@ -72,12 +72,16 @@ Aproximadamente el 82% de las reservas de viajes en 2018 se realizaron a través
 
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
+Nuestro servicio ofrece una plataforma digital que conecta a viajeros con agencias de turismo locales, permitiendo a los usuarios explorar, comparar y reservar experiencias auténticas y personalizadas basadas en sus preferencias, presupuesto y destino. Al mismo tiempo, brindamos a las agencias locales herramientas tecnológicas para gestionar sus servicios, interactuar con clientes en tiempo real y ampliar su alcance comercial de manera eficiente, promoviendo el turismo responsable y el crecimiento de negocios locales.
+Hemos observado un factor crítico que afecta tanto a viajeros como a agencias locales. Los turistas enfrentan dificultades para encontrar experiencias confiables y adaptadas a sus intereses, mientras que las agencias locales carecen de presencia digital efectiva para competir en un mercado globalizado. Esta desconexión genera frustración en los viajeros, que recurren a opciones genéricas o masificadas, y limita el crecimiento de las agencias locales, que no logran aprovechar la demanda creciente de turismo personalizado y auténtico.
+¿Cómo mejorar la conexión entre viajeros y agencias locales para garantizar experiencias turísticas auténticas y personalizadas, al mismo tiempo que se fortalece la capacidad digital de los proveedores locales y se simplifica el proceso de planificación y reserva para los usuarios, promoviendo un impacto positivo en el turismo responsable?
+
 #### 1.2.2.2. Lean UX Assumptions
 #### 1.2.2.3. Lean UX Hypothesis Statements
 #### 1.2.2.4. Lean UX Canvas
 
 ## 1.3. Segmentos Objetivos
-**Segmento #1: Turistas**
+**Segmento #1: Turistas** <br>
 Este segmento está conformado por viajeros que buscan experiencias únicas y adaptadas a sus intereses y presupuestos. Se dirigen tanto a jóvenes aventureros como a familias y profesionales que desean descubrir destinos novedosos y actividades locales.
 - Aspectos demográficos:
   - Sexo: Masculino y femenino
@@ -87,7 +91,7 @@ Este segmento está conformado por viajeros que buscan experiencias únicas y ad
   - Intereses: Turismo responsable, culturas locales, aventura, gastronomía típica y actividades fuera de lo convencional.
   - Comportamiento: Investigan opciones antes de reservar, comparan precios y valoran reseñas reales. Prefieren plataformas intuitivas que les permitan filtrar por preferencias específicas como duración, presupuesto, tipo de viaje, etc.
 
-**Segmento #2: Agencias de Turismo**
+**Segmento #2: Agencias de Turismo** <br>
 Este segmento agrupa a aquellas agencias y operadores turísticos que buscan ampliar su alcance y optimizar la gestión de sus servicios a través de canales digitales. Incluyen tanto pequeñas empresas emergentes como agencias consolidadas que desean modernizar sus procesos y alcanzar a un público más amplio mediante la reserva en tiempo real.
 - Aspectos demográficos:
   - Tipo de negocio: Pequeñas y medianas agencias de turismo, y guías independientes.
