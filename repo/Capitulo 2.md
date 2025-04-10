@@ -1,7 +1,7 @@
 # Capítulo 2: Requirements Eliciation & Analysis
 ## 2.1. Competidores
 ### 2.1.1. Análisis Competitivo
-### 2.1.2. Estrategias y tácticas fremte a competidores
+### 2.1.2. Estrategias y tácticas frente a competidores
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 ### 2.2.2. Registro de entrevistas
