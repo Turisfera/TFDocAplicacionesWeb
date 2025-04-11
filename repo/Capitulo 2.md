@@ -8,6 +8,14 @@
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
+>Segmento 1: Turistas
+
+![user persona 1 - segmento 1](https://github.com/Bal2220/Aplicaciones-Web/blob/f9871d9f432c0c2ce765720472ca0328cd4f4faa/repo/img/User%20Persona-%20Segmento%201.png)
+
+>Segmento 2: Agencias de Turismo
+
+![user persona 1 - segmento 1](https://github.com/Turisfera/Aplicaciones-Web/blob/f9871d9f432c0c2ce765720472ca0328cd4f4faa/repo/img/User%20Persona-%20Segmento%202.png)
+
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
