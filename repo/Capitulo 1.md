@@ -21,6 +21,7 @@ A través de nuestra plataforma TripMatch, brindamos un espacio donde los usuari
 |   |     |     |     |
 |   |     |     |     |
 |   |     |     |     |
+|   |     |     |     |
 
 ## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática
@@ -78,21 +79,27 @@ Hemos observado un factor crítico que afecta tanto a viajeros como a agencias l
 
 #### 1.2.2.2. Lean UX Assumptions
 **User Assumptions**
-- ¿Quién es mi usuario?
-- ¿Dónde encaja nuestro producto en su trabajo o vida?
-- ¿Qué problemas tiene nuestro producto? ¿Resolver?
-- ¿Cuándo y cómo es nuestro producto? ¿Usado?
-- ¿Qué características son importantes?
-- ¿Cómo debe verse nuestro producto y cómo debe comportarse?
+- ¿Quién es mi usuario? <br>
+  Nuestros usuarios son viajeros que buscan experiencias auténticas y personalizadas, y agencias de turismo locales que necesitan digitalizar sus servicios para llegar a más clientes.
+- ¿Dónde encaja nuestro producto en su trabajo o vida? <br>
+  Para viajeros, simplifica la búsqueda y reserva de actividades únicas; para agencias, es una herramienta de gestión y conexión directa con turistas.
+- ¿Qué problemas tiene nuestro producto? ¿Resolver? <br>
+  Resuelve la dificultad de los viajeros para encontrar opciones confiables y personalizadas, y la falta de visibilidad digital de las agencias locales.
+- ¿Cuándo y cómo es nuestro producto? ¿Usado? <br>
+  Los viajeros lo usan al planificar su viaje o durante este para reservar actividades; las agencias lo usan diariamente para gestionar servicios y atender consultas.
+- ¿Qué características son importantes? <br>
+  Filtros avanzados, reseñas verificadas, chat en tiempo real, herramientas de gestión para agencias y opción de reservas móviles.
+- ¿Cómo debe verse nuestro producto y cómo debe comportarse? <br>
+  Debe ser visualmente atractivo, fácil de usar, seguro para transacciones e intuitivo para agencias con poca experiencia digital.
 **Business Assumptions**
 - Creo que nuestros clientes necesitan...
 - Estas necesidades se pueden resolver con...
 - Mis clientes iniciales serán...
-- El valor principal que mi cliente quiere de mi servicio es...
+- El valor principal que mi cliente quiere de mi servicio son...
 - El cliente también puede obtener estos beneficios adicionales...
 - Voy a adquirir la mayoría de mis clientes a través de...
 - Haré dinero a través de...
-- Mi competencia principal en el mercado será...
+- Mi competencia principal en el mercado serán...
 - Los venceremos debido a...
 - Mi mayor riesgo de producto es...
 - Resolveremos esto a través de...
