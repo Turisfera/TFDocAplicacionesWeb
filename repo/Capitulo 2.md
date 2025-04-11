@@ -4,6 +4,8 @@
 ### 2.1.2. Estrategias y tácticas frente a competidores
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
+
+
 ### 2.2.2. Registro de entrevistas
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding
@@ -42,6 +44,14 @@ Leer y responder reseñas de usuarios sobre sus servicios	|Occasionally	|Medium|
 Explorar tendencias en tipos de experiencias populares	|Rarely	|Medium|
 
 ### 2.3.3. User Journey Mapping
+>Segmento 1: Turistas
+
+![user journey map - segmento 1](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/4f4415eb3b8a68cf765335e5844f33149d21f2d1/repo/img/User%20journey%20map-%20Segmento%201.png)
+
+>Segmento 2: Agencias de Turismo
+
+![user journey map - segmento 1](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/4f4415eb3b8a68cf765335e5844f33149d21f2d1/repo/img/User%20journey%20map-%20Segmento%202.png)
+
 ### 2.3.4. Empathy Mapping
 ### 2.3.5. As-Is Scenario Mapping
 ## 2.4. Ubiquitous Language
