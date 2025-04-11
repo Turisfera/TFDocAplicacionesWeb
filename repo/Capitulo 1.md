@@ -90,7 +90,7 @@ Hemos observado un factor crítico que afecta tanto a viajeros como a agencias l
 - ¿Qué características son importantes? <br>
   Filtros avanzados, reseñas verificadas, chat en tiempo real, herramientas de gestión para agencias y opción de reservas móviles.
 - ¿Cómo debe verse nuestro producto y cómo debe comportarse? <br>
-  Debe ser visualmente atractivo, fácil de usar, seguro para transacciones e intuitivo para agencias con poca experiencia digital. <br>
+  Debe ser visualmente atractivo, fácil de usar, seguro para transacciones e intuitivo para agencias con poca experiencia digital.
 **Business Assumptions**
 - Creo que nuestros clientes necesitan...
 - Estas necesidades se pueden resolver con...
