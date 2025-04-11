@@ -92,5 +92,5 @@ Explorar tendencias en tipos de experiencias populares	|Rarely	|Medium|
 
 >Segmento 2: Agencias de Turismo
 
-![AS-IS - segmento 1](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/26cc556cbd95cafe128da960fa633b7e2ec22ab3/repo/img/AS-IS%20-%20Segmento%202.jpg)
+![AS-IS - segmento 2](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/f020363d5b7e5f07f5bb4c8d3a2dc4fc0b52cb24/repo/img/AS-IS-%20Segmento%202.jpg)
 ## 2.4. Ubiquitous Language
