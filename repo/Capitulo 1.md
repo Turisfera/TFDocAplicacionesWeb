@@ -72,12 +72,38 @@ Aproximadamente el 82% de las reservas de viajes en 2018 se realizaron a través
 
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
-Nuestro servicio ofrece una plataforma digital que conecta a viajeros con agencias de turismo locales, permitiendo a los usuarios explorar, comparar y reservar experiencias auténticas y personalizadas basadas en sus preferencias, presupuesto y destino. Al mismo tiempo, brindamos a las agencias locales herramientas tecnológicas para gestionar sus servicios, interactuar con clientes en tiempo real y ampliar su alcance comercial de manera eficiente, promoviendo el turismo responsable y el crecimiento de negocios locales.
-Hemos observado un factor crítico que afecta tanto a viajeros como a agencias locales. Los turistas enfrentan dificultades para encontrar experiencias confiables y adaptadas a sus intereses, mientras que las agencias locales carecen de presencia digital efectiva para competir en un mercado globalizado. Esta desconexión genera frustración en los viajeros, que recurren a opciones genéricas o masificadas, y limita el crecimiento de las agencias locales, que no logran aprovechar la demanda creciente de turismo personalizado y auténtico.
+Nuestro servicio ofrece una plataforma digital que conecta a viajeros con agencias de turismo locales, permitiendo a los usuarios explorar, comparar y reservar experiencias auténticas y personalizadas basadas en sus preferencias, presupuesto y destino. Al mismo tiempo, brindamos a las agencias locales herramientas tecnológicas para gestionar sus servicios, interactuar con clientes en tiempo real y ampliar su alcance comercial de manera eficiente, promoviendo el turismo responsable y el crecimiento de negocios locales. <br>
+Hemos observado un factor crítico que afecta tanto a viajeros como a agencias locales. Los turistas enfrentan dificultades para encontrar experiencias confiables y adaptadas a sus intereses, mientras que las agencias locales carecen de presencia digital efectiva para competir en un mercado globalizado. Esta desconexión genera frustración en los viajeros, que recurren a opciones genéricas o masificadas, y limita el crecimiento de las agencias locales, que no logran aprovechar la demanda creciente de turismo personalizado y auténtico. <br>
 ¿Cómo mejorar la conexión entre viajeros y agencias locales para garantizar experiencias turísticas auténticas y personalizadas, al mismo tiempo que se fortalece la capacidad digital de los proveedores locales y se simplifica el proceso de planificación y reserva para los usuarios, promoviendo un impacto positivo en el turismo responsable?
 
 #### 1.2.2.2. Lean UX Assumptions
+**Business Outcome** <br>
+Relacionadas con el resultado que esperas lograr desde una perspectiva de negocio.
+- 
+**User** <br>
+Se enfocan en quiénes son los usuarios y qué necesitan o qué esperan.
+- 
+**User Outcome** <br>
+Se refiere a los beneficios o cambios que los usuarios experimentarán al usar el producto.
+- 
+**Feature** <br>
+Describen las características específicas y funcionalidades del producto.
+- 
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
+- **Creemos que** ofrecer filtros avanzados aumentará la adopción de la plataforma por parte de viajeros que buscan personalización.
+  **Sabremos que hemos tenido éxito**
+  **Cuando veamos** un aumento del 35% en las reservas realizadas con filtros personalizados durante los primeros 4 meses.
+- **Creemos que** permitir a las agencias locales gestionar su catálogo digital y responder consultas en tiempo real incrementará su participación en la plataforma.
+  **Sabremos que hemos tenido éxito**
+  **Cuando veamos** que el 70% de las agencias registradas actualizan su catálogo semanalmente y responden a consultas en menos de 2 horas durante los primeros 3 meses.
+- **Creemos que** eliminar intermediarios y ofrecer precios directos mejorará la rentabilidad de las agencias locales.
+  **Sabremos que hemos tenido éxito**
+  **Cuando veamos** un aumento del 25% en la renovación de contratos anuales con agencias locales y una reducción del 15% en quejas por precios elevados en el primer año.
+- **Creemos que** la integración de reseñas verificadas y fotos reales de experiencias aumentará la confianza de los viajeros en las agencias locales.
+  **Sabremos que hemos tenido éxito**
+  **Cuando veamos** un aumento del 30% en las reservas de agencias con al menos 10 reseñas positivas durante el primer trimestre de uso.
+
 #### 1.2.2.4. Lean UX Canvas
 
 ## 1.3. Segmentos Objetivos
