@@ -52,6 +52,14 @@ Explorar tendencias en tipos de experiencias populares	|Rarely	|Medium|
 
 ![user journey map - segmento 1](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/4f4415eb3b8a68cf765335e5844f33149d21f2d1/repo/img/User%20journey%20map-%20Segmento%202.png)
 
-### 2.3.4. Empathy Mapping
+### 2.3.4. Empathy Mapping  
+>Segmento 1: Turistas  
+
+![Empathy map- segmento 1](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/723d60838b51f26e43c2ff108ae35017800156e9/repo/img/Empathy%20map-%20Segmento%201.png)
+
+>Segmento 2: Agencias de Turismo  
+
+![Empathy map - segmento 2](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/723d60838b51f26e43c2ff108ae35017800156e9/repo/img/Empathy%20map%20-%20Segmento%202.png)
+
 ### 2.3.5. As-Is Scenario Mapping
 ## 2.4. Ubiquitous Language
