@@ -1,5 +1,6 @@
 # Capítulo 4: Product Design
 ## 4.1. Style Guidelines
+Las guías de estilo se definen con el objetivo de destacar visualmente la aplicación web. Para ello, la elección de colores, tipografías, formas e íconos se basa en principios y elementos fundamentales del diseño. Estos lineamientos se aplicarán de manera coherente tanto en la interfaz de la aplicación como en la landing page, asegurando una experiencia estética y funcional para el usuario.
 ### 4.1.1. General Style Guidelines
 ### 4.1.2. Web Style Guidelines
 ## 4.2. Information Architecture
