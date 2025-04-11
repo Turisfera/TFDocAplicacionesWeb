@@ -22,6 +22,7 @@
 |U202311258| María Patricia Hernández Uchuya|
 |U20211G671| Britney Delhy Qqueso Rodriguez |
 |U202219481| Rodrigo Alaya Cabrera          |
+|U20221D382| Ariadna Geraldine Poma Muñoz   |
 |     |      |
 |     |      |
 
