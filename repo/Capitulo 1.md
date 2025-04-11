@@ -77,31 +77,38 @@ Hemos observado un factor crítico que afecta tanto a viajeros como a agencias l
 ¿Cómo mejorar la conexión entre viajeros y agencias locales para garantizar experiencias turísticas auténticas y personalizadas, al mismo tiempo que se fortalece la capacidad digital de los proveedores locales y se simplifica el proceso de planificación y reserva para los usuarios, promoviendo un impacto positivo en el turismo responsable?
 
 #### 1.2.2.2. Lean UX Assumptions
-**Business Outcome** <br>
-Relacionadas con el resultado que esperas lograr desde una perspectiva de negocio.
-- 
-**User** <br>
-Se enfocan en quiénes son los usuarios y qué necesitan o qué esperan.
-- 
-**User Outcome** <br>
-Se refiere a los beneficios o cambios que los usuarios experimentarán al usar el producto.
-- 
-**Feature** <br>
-Describen las características específicas y funcionalidades del producto.
-- 
+**User Assumptions**
+- ¿Quién es mi usuario?
+- ¿Dónde encaja nuestro producto en su trabajo o vida?
+- ¿Qué problemas tiene nuestro producto? ¿Resolver?
+- ¿Cuándo y cómo es nuestro producto? ¿Usado?
+- ¿Qué características son importantes?
+- ¿Cómo debe verse nuestro producto y cómo debe comportarse?
+**Business Assumptions**
+- Creo que nuestros clientes necesitan...
+- Estas necesidades se pueden resolver con...
+- Mis clientes iniciales serán...
+- El valor principal que mi cliente quiere de mi servicio es...
+- El cliente también puede obtener estos beneficios adicionales...
+- Voy a adquirir la mayoría de mis clientes a través de...
+- Haré dinero a través de...
+- Mi competencia principal en el mercado será...
+- Los venceremos debido a...
+- Mi mayor riesgo de producto es...
+- Resolveremos esto a través de...
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
-- **Creemos que** ofrecer filtros avanzados aumentará la adopción de la plataforma por parte de viajeros que buscan personalización.
-  **Sabremos que hemos tenido éxito**
+- **Creemos que** ofrecer filtros avanzados aumentará la adopción de la plataforma por parte de viajeros que buscan personalización. <br>
+  **Sabremos que hemos tenido éxito** <br>
   **Cuando veamos** un aumento del 35% en las reservas realizadas con filtros personalizados durante los primeros 4 meses.
-- **Creemos que** permitir a las agencias locales gestionar su catálogo digital y responder consultas en tiempo real incrementará su participación en la plataforma.
-  **Sabremos que hemos tenido éxito**
+- **Creemos que** permitir a las agencias locales gestionar su catálogo digital y responder consultas en tiempo real incrementará su participación en la plataforma. <br>
+  **Sabremos que hemos tenido éxito** <br>
   **Cuando veamos** que el 70% de las agencias registradas actualizan su catálogo semanalmente y responden a consultas en menos de 2 horas durante los primeros 3 meses.
-- **Creemos que** eliminar intermediarios y ofrecer precios directos mejorará la rentabilidad de las agencias locales.
-  **Sabremos que hemos tenido éxito**
+- **Creemos que** eliminar intermediarios y ofrecer precios directos mejorará la rentabilidad de las agencias locales. <br>
+  **Sabremos que hemos tenido éxito** <br>
   **Cuando veamos** un aumento del 25% en la renovación de contratos anuales con agencias locales y una reducción del 15% en quejas por precios elevados en el primer año.
-- **Creemos que** la integración de reseñas verificadas y fotos reales de experiencias aumentará la confianza de los viajeros en las agencias locales.
-  **Sabremos que hemos tenido éxito**
+- **Creemos que** la integración de reseñas verificadas y fotos reales de experiencias aumentará la confianza de los viajeros en las agencias locales. <br>
+  **Sabremos que hemos tenido éxito** <br>
   **Cuando veamos** un aumento del 30% en las reservas de agencias con al menos 10 reseñas positivas durante el primer trimestre de uso.
 
 #### 1.2.2.4. Lean UX Canvas
