@@ -4,7 +4,31 @@
 ### 2.1.2. Estrategias y tácticas frente a competidores
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
+**Preguntas Generales:**  
++ ¿Cuál es tu nombre y a qué te dedicas actualmente?
++ ¿Cuántos años tienes?
 
+**Preguntas Especificas:**   
+  
+Segmento 1: Turistas    
+1. Cuando estás organizando un viaje, ¿qué tan fácil te resulta encontrar actividades o experiencias que realmente se alineen a tus intereses y presupuesto?
+2. ¿Qué problemas sueles encontrar cuando buscas y reservas actividades turísticas online?
+3. ¿Alguna vez has querido contratar un tour o actividad local y no supiste cómo contactarte con alguien confiable? ¿Qué hiciste en ese caso?
+4. ¿Qué tan dispuesto estás a descubrir actividades nuevas durante tu viaje, que no estaban en tu plan original?
+5. ¿Te gustaría poder encontrar experiencias personalizadas en una sola app, según tus intereses y reservar directamente con agencias locales? ¿Por qué?
+6. ¿Qué haría que confíes en una app que te conecta con operadores locales directamente?
+7. ¿Sientes que las plataformas actuales te dan opciones hechas a medida o más bien paquetes estándar para el turismo masivo? ¿Qué te gustaría que cambie?
+   
+Segmento 2: Agencias de Turismo  
+1. ¿Cómo te das a conocer actualmente ante nuevos clientes?
+2. ¿Qué tan fácil o difícil es para ti atraer turistas independientes sin intermediarios?
+3. ¿Qué herramientas digitales utilizas actualmente para gestionar reservas o promocionar tus servicios?
+4. ¿Has tenido problemas para digitalizar algunos aspectos de tu operación? ¿Cuáles?
+5. ¿Qué desafíos enfrentas al competir con grandes agencias o plataformas conocidas?
+6. ¿Te interesaría una plataforma que permita mostrar tus tours a turistas según sus intereses específicos y que puedan reservar directamente contigo? ¿Por qué?
+7. ¿Qué características serían imprescindibles para ti en una plataforma como TripMatch?
+8. ¿Cómo manejas actualmente las consultas y reservas de último minuto? ¿Sientes que necesitas automatizar eso?
+9. ¿Qué beneficios esperarías obtener al usar una plataforma que conecte directamente agencias locales con viajeros sin tantos intermediarios?
 
 ### 2.2.2. Registro de entrevistas
 ### 2.2.3. Análisis de entrevistas
