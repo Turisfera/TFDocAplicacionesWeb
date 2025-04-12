@@ -31,6 +31,17 @@ Segmento 2: Agencias de Turismo
 9. ¿Qué beneficios esperarías obtener al usar una plataforma que conecte directamente agencias locales con viajeros sin tantos intermediarios?
 
 ### 2.2.2. Registro de entrevistas
+
+>Segmento 1: Turistas
+
+| Número de entrevista | Datos del entrevistado | Evidencia de entrevista |
+|----------------------|------------------------|-------------------------|
+| 1 | Nombres: Fernanda Rojas<br> Edad: 19 años<br> Distrito: La Molina<br> Link: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311258_upc_edu_pe/EacDNvV_oulFoz4vMVU_BT8BSuGGmomw0ULMWN7Nf8dMKg?e=LBQ57A>| Foto |
+| 2 | Nombres: NOMBRE Y APELLIDO<br> Edad: 00 años<br> Distrito: DISTRITO<br> Link: <> | Foto |
+| 3 | Nombres: NOMBRE Y APELLIDO<br> Edad: 00 años<br> Distrito: DISTRITO<br> Link: <> | Foto |
+
+>Segmento 2: Agencias de Turismo
+
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
