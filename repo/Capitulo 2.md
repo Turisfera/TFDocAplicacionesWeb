@@ -36,9 +36,9 @@ Segmento 2: Agencias de Turismo
 
 | Número de entrevista | Datos del entrevistado | Evidencia de entrevista |
 |----------------------|------------------------|-------------------------|
-| 1 | Nombres: Fernanda Rojas<br> Edad: 19 años<br> Distrito: La Molina<br> Link: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311258_upc_edu_pe/EacDNvV_oulFoz4vMVU_BT8BSuGGmomw0ULMWN7Nf8dMKg?e=LBQ57A>| Foto |
-| 2 | Nombres: NOMBRE Y APELLIDO<br> Edad: 00 años<br> Distrito: DISTRITO<br> Link: <> | Foto |
-| 3 | Nombres: NOMBRE Y APELLIDO<br> Edad: 00 años<br> Distrito: DISTRITO<br> Link: <> | Foto |
+| 1 | Nombres: Fernanda Rojas<br> Edad: 19 años<br> Distrito: La Molina<br> Link: [Entrevista 1: Karla Rojas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311258_upc_edu_pe/EacDNvV_oulFoz4vMVU_BT8BSuGGmomw0ULMWN7Nf8dMKg?e=LBQ57A) | Foto: ![Entrevista 1: Evidencia](./img/Entrevista%201%20-%20Turistas%20(Karla%20Rojas)) |
+| 2 | Nombres: NOMBRE Y APELLIDO<br> Edad: 00 años<br> Distrito: DISTRITO<br> Link: | Foto |
+| 3 | Nombres: NOMBRE Y APELLIDO<br> Edad: 00 años<br> Distrito: DISTRITO<br> Link: | Foto |
 
 >Segmento 2: Agencias de Turismo
 
