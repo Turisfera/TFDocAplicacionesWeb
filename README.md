@@ -23,7 +23,7 @@
 |U20211G671| Britney Delhy Qqueso Rodriguez |
 |U202219481| Rodrigo Alaya Cabrera          |
 |U20221D382| Ariadna Geraldine Poma Muñoz   |
-|     |      |
+|U202316057| Jorge Enrique Guevara Tejada   |
 |     |      |
 
 **Abril - 2025**
