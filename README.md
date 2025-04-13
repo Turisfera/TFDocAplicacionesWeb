@@ -24,7 +24,7 @@
 |U202219481| Rodrigo Alaya Cabrera          |
 |U20221D382| Ariadna Geraldine Poma Muñoz   |
 |U202316057| Jorge Enrique Guevara Tejada   |
-|     |      |
+|U202210938| Raúl Adrian Medina Cruzado     |
 
 **Abril - 2025**
 
