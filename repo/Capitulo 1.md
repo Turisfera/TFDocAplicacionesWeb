@@ -18,7 +18,7 @@ A través de nuestra plataforma TripMatch, brindamos un espacio donde los usuari
 |   |     |     |     |    |
 | Marcia Victoria Melgarejo Gomez |  U20231C505  | Opté por esta carrera debido a mi interés en el mundo de la tecnología y todo lo que este campo puede ofrecer a la sociedad. <br> Me caracterizo por ser una persona curiosa, persistente y colaborativa. <br> Tengo conocimientos en C++, HTML, CSS, JS, Pyhton |      |
 | María Patricia Hernández Uchuya |  U202311258  | Estudio la carrera de Ingeniería de Software, tengo 19 años y actualmente me encuentro cursando el quinto ciclo de dicha carrera. Tengo conocimientos en C++, Python, Java, HTML, CSS y JavaScript. Me considero una persona con responsabilidad, optimismo y honestidad, cualidades que considero fundamentales para una colaboración efectiva en equipo y un buen desarrollo en este proyecto. |     |
-|   |     |     |     |
+| Raúl Adrian Medina Cruzado | U202210938 | Estudio la carrera de Ingenieria de Software, soy apasionado por la ciencia de datos. Me motiva descubrir cómo el análisis y la interpretación de grandes volúmenes de información pueden generar soluciones innovadoras dentro del desarrollo de software. Me concidero una persona la cual no tiene la facilidad de adaptarse a nuevos ambientes laborales, tambien me concidero una persona responsable, persistente y empatica. Tengo dominio en diferenetes lenguajes de programacion tale como C++, Java, JavaScript, Python, HTML, CSS.|     |
 |   |     |     |     |
 |   |     |     |     |
 |   |     |     |     |
