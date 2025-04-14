@@ -3,17 +3,39 @@
 Las Style Guidelines son un conjunto de normas que definen la redacción, diseño y presentación del contenido del proyecto. El equipo ha creado un repositorio centralizado con recursos visuales compartidos para garantizar coherencia en la aplicación web, móvil y landing page. Estas guías, basadas en principios de diseño, se organizan en tres secciones: General, Web y Mobile.
 ### 4.1.1. General Style Guidelines
 __Branding:__
-La identidad visual de TripMatch debe transmitir confianza, cercanía y espíritu aventurero. Nuestro branding se basa en una estética moderna, limpia y amigable, capaz de conectar con usuarios de diferentes edades y culturas que buscan experiencias auténticas.
+Para la creación del logo de nuestro producto TripMatch, se ha optado por un diseño representativo y amigable que transmite los valores de aventura, autenticidad y conexión con la naturaleza. El logotipo está compuesto por una tipografía redondeada y moderna, acompañada de un ícono que representa una montaña nevada dentro de un círculo, evocando destinos naturales, seguridad y dirección. Los colores utilizados son armónicos y cálidos, lo que refuerza la idea de un turismo responsable y accesible.
 ![logotipo TripMatch](img/logo-TripMatch.png)
+
 __Typography:__
+Para la tipografía de TripMatch, se ha seleccionado una fuente moderna, clara y legible, ideal para dispositivos móviles y plataformas digitales. La tipografía principal es Roboto, una fuente sans-serif amigable y versátil que refuerza el carácter accesible y dinámico de la plataforma. Para títulos y encabezados se puede emplear una versión más gruesa de la misma fuente, garantizando jerarquía visual sin perder coherencia estética.
+A continuación, se presentan las tipografías seleccionadas para TripMatch:
+
+Principal: Roboto Regular
+
+Encabezados: Roboto SemiBold / Bold
 
 __Colors:__
+La paleta de colores de TripMatch se compone de tonos que evocan calma, naturaleza y aventura. Los colores seleccionados son vibrantes pero equilibrados, lo cual permite captar la atención del usuario sin saturar visualmente la interfaz. A continuación, se presentan los colores seleccionados para TripMatch:
+
+Turquesa (#3CA6A6): color principal, transmite frescura y profesionalismo
+
+Marrón tierra (#A17447): representa autenticidad, conexión con lo local
+
+Blanco (#FFFFFF): equilibrio, claridad y contraste
 
 __Spacing:__
+El espaciado es un elemento clave en el diseño de TripMatch, ya que permite mantener una interfaz ordenada, limpia y fácil de navegar. Se ha utilizado un espaciado generoso y coherente entre elementos, lo cual mejora la legibilidad y crea una sensación de equilibrio visual. El uso uniforme del espacio contribuye a una experiencia de usuario fluida y cómoda, tanto en dispositivos móviles como en escritorio.
 
 ### 4.1.2. Web Style Guidelines
+La interfaz web de TripMatch está diseñada con un estilo moderno, limpio y totalmente adaptable a distintos dispositivos, asegurando una navegación fluida tanto en móviles como en pantallas de escritorio. Se emplean paletas de colores inspiradas en la naturaleza y la aventura, tipografías claras como Roboto, y componentes visuales amigables como botones redondeados e íconos intuitivos.
+
+Además, se prioriza la experiencia del usuario mediante interacciones suaves, menús simplificados, tarjetas informativas y animaciones sutiles. Todo el diseño responde a criterios de accesibilidad, garantizando legibilidad, contraste adecuado y compatibilidad con lectores de pantalla.
+
+
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
+
+
 ### 4.2.2. Labeling Systems
 ### 4.2.3. SEO Tags and Meta Tags 
 ### 4.2.4. Searching Systems
