@@ -2,13 +2,14 @@
 ## 4.1. Style Guidelines
 Las Style Guidelines son un conjunto de normas que definen la redacción, diseño y presentación del contenido del proyecto. El equipo ha creado un repositorio centralizado con recursos visuales compartidos para garantizar coherencia en la aplicación web, móvil y landing page. Estas guías, basadas en principios de diseño, se organizan en tres secciones: General, Web y Mobile.
 ### 4.1.1. General Style Guidelines
-__ Branding __
+__Branding__
+La identidad visual de TripMatch debe transmitir confianza, cercanía y espíritu aventurero. Nuestro branding se basa en una estética moderna, limpia y amigable, capaz de conectar con usuarios de diferentes edades y culturas que buscan experiencias auténticas.
+![logotipo TripMatch](imagen/logotipo-TripMatch.png)
+__Typography__
 
-__ Typography __
+__Colors__
 
-__ Colors __
-
-__ Spacing __
+__Spacing__
 
 ### 4.1.2. Web Style Guidelines
 ## 4.2. Information Architecture
