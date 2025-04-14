@@ -4,7 +4,7 @@ Las Style Guidelines son un conjunto de normas que definen la redacción, diseñ
 ### 4.1.1. General Style Guidelines
 __Branding__
 La identidad visual de TripMatch debe transmitir confianza, cercanía y espíritu aventurero. Nuestro branding se basa en una estética moderna, limpia y amigable, capaz de conectar con usuarios de diferentes edades y culturas que buscan experiencias auténticas.
-![logotipo TripMatch](imagen/logotipo-TripMatch.png)
+![logotipo TripMatch](img/logo-TripMatch.png)
 __Typography__
 
 __Colors__
