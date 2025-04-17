@@ -42,6 +42,13 @@ Segmento 2: Agencias de Turismo
 
 >Segmento 2: Agencias de Turismo
 
+| Número de entrevista | Datos del entrevistado | Evidencia de entrevista |
+|----------------------|------------------------|-------------------------|
+| 1 | Nombres: Abigail Rodriguez<br> Edad:  21 años<br> Distrito: Surco<br> Agencia de Turismo: Authentic Peru Travel<br> Link: [Entrevista 1: ]() | ![Entrevista 1: Evidencia]() |
+| 2 | Nombres: NOMBRE Y APELLIDO<br> Edad: 00 años<br> Distrito: DISTRITO<br> Agencia de Turismo: <br> Link: | Foto |
+| 3 | Nombres: NOMBRE Y APELLIDO<br> Edad: 00 años<br> Distrito: DISTRITO<br> Agencia de Turismo: <br> Link: | Foto |
+
+
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
