@@ -2,22 +2,22 @@
 ## 2.1. Competidores
   - [2.1.1. Análisis competitivo]()
 
-     **¿Por qué llevar a cabo este análisis?**  
-    Este análisis permite conocer mejor a los competidores actuales en el sector de alquiler de bicicletas en Lima Metropolitana, identificar sus fortalezas y debilidades, y establecer estrategias efectivas para que BikeShare se posicione con ventaja competitiva en el mercado local.
+    **¿Por qué llevar a cabo este análisis?**  
+    Este análisis permite entender el entorno competitivo en el que TripMatch operará, identificar las fortalezas y debilidades de plataformas similares a nivel local e internacional, y delinear estrategias efectivas para posicionar a Turisnap como una solución confiable y diferenciada para el turismo personalizado y responsable.
 
-    | **Categoría** | **BikeShare**<br>![BikeShare Logo](images/bikeshare-logo.png) | **CityBike Lima**<br>![CityBike Logo](images/citybike-logo.png) | **Bicilandia**<br>![Bicilandia Logo](images/bicilandia-logo.png) | **Barranco Bikes**<br>![Barranco Logo](images/barranco-logo.png) |
-    |---------------|---------------|-------------------|----------------|---------------------|
-    | **Overview** | Plataforma colaborativa digital para alquiler de bicicletas entre ciudadanos en Lima Metropolitana. | Sistema de bicicletas públicas con estaciones fijas en Miraflores. | Alquiler tradicional de bicicletas desde locales físicos en zonas turísticas. | Alquiler de bicicletas y tours guiados con servicio de entrega a domicilio. |
-    | **Ventaja competitiva**<br>¿Qué valor ofrece a los clientes? | Fomenta la economía colaborativa, acceso flexible y sin estaciones físicas, geolocalización y pagos integrados. | Conveniencia, integración con infraestructura urbana, tecnología móvil. | Accesibilidad y bajo costo para turistas sin tecnología. | Enfoque turístico personalizado y servicio de entrega. |
-    | **Mercado objetivo** | Jóvenes, estudiantes, trabajadores urbanos, 18-40 años, con conciencia ecológica. | Residentes y visitantes de Miraflores. | Turistas y visitantes temporales. | Turistas y residentes recreativos en Barranco. |
-    | **Estrategias de marketing** | Campañas digitales, redes sociales, alianzas con universidades y colectivos ciclistas. | Promoción local, presencia visual en espacios públicos. | Promociones físicas y boca a boca, descuentos estudiantiles. | Presencia en redes, contacto directo, convenios turísticos. |
-    | **Productos & Servicios** | Alquiler entre usuarios, reservas, pagos online, historial y sistema de reputación. | Bicicletas propias con estaciones automatizadas. | Bicicletas mecánicas sin reservas ni tecnología. | Alquiler, tours, clases de surf con entrega de bicis. |
-    | **Precios & Costos** | Microtransacción (~10%) por alquiler, con planes premium futuros. | Tarifas por pase diario, mensual y anual con tiempo limitado por viaje. | Precio por hora, con promociones para estudiantes. | Costos por horas/tours, según actividad contratada. |
-    | **Canales de distribución (Web/Móvil)** | Web app accesible desde cualquier navegador con conexión. | App móvil para registro y desbloqueo de bicicletas. | Presencial, sin canal digital. | Redes sociales, WhatsApp y reservas por teléfono. |
-    | **Fortalezas** | Escalable, sin flota propia, promueve comunidad y sostenibilidad. | Infraestructura consolidada, operación fluida. | Costo operativo bajo, fácil acceso local. | Atención personalizada, nicho turístico. |
-    | **Debilidades** | Base de usuarios aún en construcción, requiere confianza entre pares. | Cobertura limitada a un distrito, dependencia de estaciones. | Sin escalabilidad, sin presencia digital. | Cobertura limitada y sin plataforma digital robusta. |
-    | **Oportunidades** | Impulso municipal al ciclismo, tendencia ecológica urbana. | Iniciativas distritales en transporte ecológico. | Turismo activo en Miraflores y Jesús María. | Turismo recreativo y cultural en Barranco. |
-    | **Amenazas** | Competencia con apps ya establecidas, resistencia inicial de usuarios. | Limitado potencial de expansión sin inversión en estaciones. | Perder mercado ante plataformas tecnológicas. | Falta de escalabilidad y dependencia de comunicación directa. |
+    | **Categoría** | **TripMatch**<br>![TripMatch Logo](images/tripmatch-logo.png) | **Withlocals**<br>![Withlocals Logo](images/withlocals-logo.png) | **ToursByLocals**<br>![ToursByLocals Logo](images/toursbylocals-logo.png) | **Showaround**<br>![Showaround Logo](images/showaround-logo.png) |
+    |---------------|------------------|-------------------|----------------------|----------------------|
+    | **Overview** | Plataforma digital que conecta turistas con agencias locales para experiencias personalizadas. | Conecta viajeros con anfitriones locales para tours privados. | Tours privados guiados por expertos locales. | Recorridos personalizados con locales en su ciudad. |
+    | **Ventaja competitiva** | Filtros por tipo de viaje, presupuesto, duración; reservas instantáneas; soporte a agencias locales. | Experiencias privadas y auténticas en ciudades populares. | Personalización de itinerarios con guías especializados. | Perspectiva local auténtica para conocer la ciudad como residente. |
+    | **Mercado objetivo** | Viajeros que buscan autenticidad y agencias que desean digitalizarse. | Viajeros interesados en cultura local y experiencias no masificadas. | Turistas con alto presupuesto que buscan experiencias exclusivas. | Millennials y Gen Z viajeros espontáneos. |
+    | **Estrategias de marketing** | Alianzas con blogs de viaje, redes sociales, posicionamiento SEO en turismo peruano. | Marketing de influencers, presencia en redes, contenido en video. | Posicionamiento premium, campañas dirigidas a mercados maduros. | Promoción directa en Instagram y TikTok. |
+    | **Productos & Servicios** | Buscador por intereses, chat con agencias, reseñas, pagos online. | Tours guiados 1:1, personalizables. | Itinerarios custom, filtros por estilo de viaje. | Recorridos casuales, flexibles y sociales. |
+    | **Precios & Costos** | Comisión por transacción (microtransacciones), acceso freemium para agencias. | Precio por experiencia, sin comisiones intermedias. | Tarifa fija por guía, orientado a turismo premium. | Precios negociados directamente con los locales. |
+    | **Canales de distribución** | Web responsive, futura app móvil. | Web y app móvil. | Web y app. | App y sitio móvil social. |
+    | **Fortalezas** | Enfoque local, flexibilidad, apoyo a pymes, interfaz intuitiva. | Autenticidad, enfoque humano. | Alta calidad y seguridad en el servicio. | Espontaneidad, enfoque juvenil. |
+    | **Debilidades** | Plataforma nueva, sin marca reconocida aún. | Limitado a ciertas ciudades. | Costos altos para el usuario. | Falta de control de calidad. |
+    | **Oportunidades** | Crecimiento del turismo interno y de experiencias locales. | Tendencia al turismo responsable. | Viajeros de lujo que buscan experiencias únicas. | Mayor uso de apps sociales de viaje. |
+    | **Amenazas** | Alta competencia y presencia de marcas globales. | Escalabilidad limitada por modelo 1:1. | Barrera de acceso por costos. | Riesgos de seguridad para el usuario. |
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 ## 2.2. Entrevistas
