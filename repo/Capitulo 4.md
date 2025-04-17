@@ -1,6 +1,7 @@
 # Capítulo 4: Product Design
 ## 4.1. Style Guidelines
 Las Style Guidelines son un conjunto de normas que definen la redacción, diseño y presentación del contenido del proyecto. El equipo ha creado un repositorio centralizado con recursos visuales compartidos para garantizar coherencia en la aplicación web, móvil y landing page. Estas guías, basadas en principios de diseño, se organizan en tres secciones: General, Web y Mobile.
+
 ### 4.1.1. General Style Guidelines
 __Branding:__
 Para la creación del logo de nuestro producto TripMatch, se ha optado por un diseño representativo y amigable que transmite los valores de aventura, autenticidad y conexión con la naturaleza. El logotipo está compuesto por una tipografía redondeada y moderna, acompañada de un ícono que representa una montaña nevada dentro de un círculo, evocando destinos naturales, seguridad y dirección. Los colores utilizados son armónicos y cálidos, lo que refuerza la idea de un turismo responsable y accesible.
@@ -11,8 +12,8 @@ __Typography:__
 Para la tipografía de TripMatch, se ha seleccionado una fuente moderna, clara y legible, ideal para dispositivos móviles y plataformas digitales. La tipografía principal es Roboto, una fuente sans-serif amigable y versátil que refuerza el carácter accesible y dinámico de la plataforma. Para títulos y encabezados se puede emplear una versión más gruesa de la misma fuente, garantizando jerarquía visual sin perder coherencia estética.
 A continuación, se presentan las tipografías seleccionadas para TripMatch:
 
-Principal: Roboto Regular
-Encabezados: Roboto SemiBold / Bold
+* Principal: Roboto Regular
+* Encabezados: Roboto SemiBold / Bold
 
 ![tipography TripMatch](img/tipografia-roboto.png)
 
@@ -37,25 +38,23 @@ Además, se prioriza la experiencia del usuario mediante interacciones suaves, m
 ### 4.2.2. Labeling Systems
 Para garantizar una experiencia intuitiva y sin confusiones, las etiquetas empleadas en TripMatch han sido diseñadas con base en principios de simplicidad, claridad y consistencia.
 
-Etiquetas para la navegación principal (menú inferior):
-
+**Etiquetas para la navegación principal (menú inferior):**
 * Inicio: Página principal con acceso a destinos sugeridos y novedades.
 * Explorar: Sección para descubrir nuevos lugares mediante filtros o búsqueda.
 * Itinerario: Espacio donde el usuario puede planificar, visualizar y editar sus viajes.
-\.Amigos: Conexiones sociales y visualización de itinerarios compartidos.
-\.Perfil: Acceso a la información personal y configuraciones.
+* Amigos: Conexiones sociales y visualización de itinerarios compartidos.
+* Perfil: Acceso a la información personal y configuraciones.
 
-Etiquetas para acciones:
-\.Buscar: Entrada para realizar búsquedas de destinos o usuarios.
-\.Agregar al itinerario: Acción rápida para incluir un destino en un viaje.
-\.Compartir: Opción para enviar itinerarios a amigos.
-\.Editar / Eliminar: Gestión de elementos guardados por el usuario.
-\.Guardar cambios: Confirmación de edición o creación de itinerario.
+**Etiquetas para acciones:**
+* Buscar: Entrada para realizar búsquedas de destinos o usuarios.
+* Agregar al itinerario: Acción rápida para incluir un destino en un viaje.
+* Compartir: Opción para enviar itinerarios a amigos.
+* Editar / Eliminar: Gestión de elementos guardados por el usuario.
+* Guardar cambios: Confirmación de edición o creación de itinerario.
 
-Etiquetas asociativas para categorías:
-\.Populares, Culturales, Naturaleza, Aventura, Relax: Categorías que agrupan destinos según intereses.
-\.Hoy, Próximo destino, Favoritos: Agrupaciones cronológicas y personalizadas que facilitan el acceso a información relevante.
-
+**Etiquetas asociativas para categorías:**
+* Populares, Culturales, Naturaleza, Aventura, Relax: Categorías que agrupan destinos según intereses.
+* Hoy, Próximo destino, Favoritos: Agrupaciones cronológicas y personalizadas que facilitan el acceso a información relevante.
 
 ### 4.2.3. SEO Tags and Meta Tags 
 ### 4.2.4. Searching Systems
