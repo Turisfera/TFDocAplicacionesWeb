@@ -1,6 +1,24 @@
 # Capítulo 2: Requirements Eliciation & Analysis
 ## 2.1. Competidores
-### 2.1.1. Análisis Competitivo
+  - [2.1.1. Análisis competitivo]()
+
+     **¿Por qué llevar a cabo este análisis?**  
+    Este análisis permite conocer mejor a los competidores actuales en el sector de alquiler de bicicletas en Lima Metropolitana, identificar sus fortalezas y debilidades, y establecer estrategias efectivas para que BikeShare se posicione con ventaja competitiva en el mercado local.
+
+    | **Categoría** | **BikeShare**<br>![BikeShare Logo](images/bikeshare-logo.png) | **CityBike Lima**<br>![CityBike Logo](images/citybike-logo.png) | **Bicilandia**<br>![Bicilandia Logo](images/bicilandia-logo.png) | **Barranco Bikes**<br>![Barranco Logo](images/barranco-logo.png) |
+    |---------------|---------------|-------------------|----------------|---------------------|
+    | **Overview** | Plataforma colaborativa digital para alquiler de bicicletas entre ciudadanos en Lima Metropolitana. | Sistema de bicicletas públicas con estaciones fijas en Miraflores. | Alquiler tradicional de bicicletas desde locales físicos en zonas turísticas. | Alquiler de bicicletas y tours guiados con servicio de entrega a domicilio. |
+    | **Ventaja competitiva**<br>¿Qué valor ofrece a los clientes? | Fomenta la economía colaborativa, acceso flexible y sin estaciones físicas, geolocalización y pagos integrados. | Conveniencia, integración con infraestructura urbana, tecnología móvil. | Accesibilidad y bajo costo para turistas sin tecnología. | Enfoque turístico personalizado y servicio de entrega. |
+    | **Mercado objetivo** | Jóvenes, estudiantes, trabajadores urbanos, 18-40 años, con conciencia ecológica. | Residentes y visitantes de Miraflores. | Turistas y visitantes temporales. | Turistas y residentes recreativos en Barranco. |
+    | **Estrategias de marketing** | Campañas digitales, redes sociales, alianzas con universidades y colectivos ciclistas. | Promoción local, presencia visual en espacios públicos. | Promociones físicas y boca a boca, descuentos estudiantiles. | Presencia en redes, contacto directo, convenios turísticos. |
+    | **Productos & Servicios** | Alquiler entre usuarios, reservas, pagos online, historial y sistema de reputación. | Bicicletas propias con estaciones automatizadas. | Bicicletas mecánicas sin reservas ni tecnología. | Alquiler, tours, clases de surf con entrega de bicis. |
+    | **Precios & Costos** | Microtransacción (~10%) por alquiler, con planes premium futuros. | Tarifas por pase diario, mensual y anual con tiempo limitado por viaje. | Precio por hora, con promociones para estudiantes. | Costos por horas/tours, según actividad contratada. |
+    | **Canales de distribución (Web/Móvil)** | Web app accesible desde cualquier navegador con conexión. | App móvil para registro y desbloqueo de bicicletas. | Presencial, sin canal digital. | Redes sociales, WhatsApp y reservas por teléfono. |
+    | **Fortalezas** | Escalable, sin flota propia, promueve comunidad y sostenibilidad. | Infraestructura consolidada, operación fluida. | Costo operativo bajo, fácil acceso local. | Atención personalizada, nicho turístico. |
+    | **Debilidades** | Base de usuarios aún en construcción, requiere confianza entre pares. | Cobertura limitada a un distrito, dependencia de estaciones. | Sin escalabilidad, sin presencia digital. | Cobertura limitada y sin plataforma digital robusta. |
+    | **Oportunidades** | Impulso municipal al ciclismo, tendencia ecológica urbana. | Iniciativas distritales en transporte ecológico. | Turismo activo en Miraflores y Jesús María. | Turismo recreativo y cultural en Barranco. |
+    | **Amenazas** | Competencia con apps ya establecidas, resistencia inicial de usuarios. | Limitado potencial de expansión sin inversión en estaciones. | Perder mercado ante plataformas tecnológicas. | Falta de escalabilidad y dependencia de comunicación directa. |
+
 ### 2.1.2. Estrategias y tácticas frente a competidores
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
