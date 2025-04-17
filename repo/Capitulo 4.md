@@ -39,8 +39,8 @@ Para garantizar una experiencia intuitiva y sin confusiones, las etiquetas emple
 
 Etiquetas para la navegación principal (menú inferior):
 
-Inicio: Página principal con acceso a destinos sugeridos y novedades.
-Explorar: Sección para descubrir nuevos lugares mediante filtros o búsqueda.
+*Inicio: Página principal con acceso a destinos sugeridos y novedades.
+*Explorar: Sección para descubrir nuevos lugares mediante filtros o búsqueda.
 \.Itinerario: Espacio donde el usuario puede planificar, visualizar y editar sus viajes.
 \.Amigos: Conexiones sociales y visualización de itinerarios compartidos.
 \.Perfil: Acceso a la información personal y configuraciones.
