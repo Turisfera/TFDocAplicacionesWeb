@@ -9,13 +9,10 @@ Para la creación del logo de nuestro producto TripMatch, se ha optado por un di
 ![logotipo TripMatch](img/logo-TripMatch.png)
 
 __Typography:__
-Para la tipografía de TripMatch, se ha seleccionado una fuente moderna, clara y legible, ideal para dispositivos móviles y plataformas digitales. La tipografía principal es Roboto, una fuente sans-serif amigable y versátil que refuerza el carácter accesible y dinámico de la plataforma. Para títulos y encabezados se puede emplear una versión más gruesa de la misma fuente, garantizando jerarquía visual sin perder coherencia estética.
-A continuación, se presentan las tipografías seleccionadas para TripMatch:
+Para la tipografía de TripMatch, se ha seleccionado una fuente moderna, clara y legible, ideal para dispositivos móviles y plataformas digitales. La tipografía principal es Poppins, una fuente amigable y versátil que refuerza el carácter accesible y dinámico de la plataforma. Para títulos y encabezados se puede emplear una versión más gruesa de la misma fuente, garantizando jerarquía visual sin perder coherencia estética.
+A continuación, se presentan la tipografía seleccionadas para TripMatch:
 
-* Principal: Roboto Regular
-* Encabezados: Roboto SemiBold / Bold
-
-![tipography TripMatch](img/tipografia-roboto.png)
+![tipography TripMatch](img/tipografia-poppins.png)
 
 __Colors:__
 La paleta de colores de TripMatch se compone de tonos que evocan calma, naturaleza y aventura. Los colores seleccionados son vibrantes pero equilibrados, lo cual permite captar la atención del usuario sin saturar visualmente la interfaz. A continuación, se presentan los colores seleccionados para TripMatch:
