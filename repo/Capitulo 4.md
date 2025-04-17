@@ -68,6 +68,9 @@ Para garantizar una experiencia de usuario fluida y eficiente, se ha definido un
 * **Historial y búsquedas guardadas:** los usuarios podrán revisar búsquedas recientes y guardar filtros frecuentes para agilizar futuras consultas.
 
 ### 4.2.5. Navigation Systems
+
+
+
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
 ### 4.3.2. Landing Page Mock-up
