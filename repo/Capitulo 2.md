@@ -1,6 +1,6 @@
 # Capítulo 2: Requirements Eliciation & Analysis
 ## 2.1. Competidores
-  - [2.1.1. Análisis competitivo]()
+### 2.1.1. Análisis competitivo
 
     **¿Por qué llevar a cabo este análisis?**  
     Este análisis permite entender el entorno competitivo en el que TripMatch operará, identificar las fortalezas y debilidades de plataformas similares a nivel local e internacional, y delinear estrategias efectivas para posicionar a Turisnap como una solución confiable y diferenciada para el turismo personalizado y responsable.
@@ -19,7 +19,7 @@
     | **Oportunidades** | Crecimiento del turismo interno y de experiencias locales. | Tendencia al turismo responsable. | Viajeros de lujo que buscan experiencias únicas. | Mayor uso de apps sociales de viaje. |
     | **Amenazas** | Alta competencia y presencia de marcas globales. | Escalabilidad limitada por modelo 1:1. | Barrera de acceso por costos. | Riesgos de seguridad para el usuario. |
 
-  - [2.1.2. Estrategias y tácticas frente a competidores]()
+### 2.1.2. Estrategias y tácticas frente a competidores
 
     TripMatch debe posicionarse como una alternativa local, accesible, confiable y especializada en conectar a viajeros con agencias peruanas. A continuación, se detallan estrategias para competir frente a las fortalezas de plataformas globales, aprovechar debilidades del mercado y mitigar amenazas.
 
