@@ -4,6 +4,7 @@ Las Style Guidelines son un conjunto de normas que definen la redacción, diseñ
 ### 4.1.1. General Style Guidelines
 __Branding:__
 Para la creación del logo de nuestro producto TripMatch, se ha optado por un diseño representativo y amigable que transmite los valores de aventura, autenticidad y conexión con la naturaleza. El logotipo está compuesto por una tipografía redondeada y moderna, acompañada de un ícono que representa una montaña nevada dentro de un círculo, evocando destinos naturales, seguridad y dirección. Los colores utilizados son armónicos y cálidos, lo que refuerza la idea de un turismo responsable y accesible.
+
 ![logotipo TripMatch](img/logo-TripMatch.png)
 
 __Typography:__
@@ -11,8 +12,9 @@ Para la tipografía de TripMatch, se ha seleccionado una fuente moderna, clara y
 A continuación, se presentan las tipografías seleccionadas para TripMatch:
 
 Principal: Roboto Regular
-
 Encabezados: Roboto SemiBold / Bold
+
+![tipography TripMatch](img/tipografia-roboto.png)
 
 __Colors:__
 La paleta de colores de TripMatch se compone de tonos que evocan calma, naturaleza y aventura. Los colores seleccionados son vibrantes pero equilibrados, lo cual permite captar la atención del usuario sin saturar visualmente la interfaz. A continuación, se presentan los colores seleccionados para TripMatch:
