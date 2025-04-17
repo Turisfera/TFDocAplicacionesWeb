@@ -19,7 +19,43 @@
     | **Oportunidades** | Crecimiento del turismo interno y de experiencias locales. | Tendencia al turismo responsable. | Viajeros de lujo que buscan experiencias únicas. | Mayor uso de apps sociales de viaje. |
     | **Amenazas** | Alta competencia y presencia de marcas globales. | Escalabilidad limitada por modelo 1:1. | Barrera de acceso por costos. | Riesgos de seguridad para el usuario. |
 
-### 2.1.2. Estrategias y tácticas frente a competidores
+  - [2.1.2. Estrategias y tácticas frente a competidores]()
+
+    TripMatch debe posicionarse como una alternativa local, accesible, confiable y especializada en conectar a viajeros con agencias peruanas. A continuación, se detallan estrategias para competir frente a las fortalezas de plataformas globales, aprovechar debilidades del mercado y mitigar amenazas.
+
+#### Frente a las fortalezas de los competidores
+
+| **Fortalezas de los competidores** | **Estrategias de TripMatch** |
+|-----------------------------------|-------------------------------|
+| Withlocals ofrece tours íntimos y personalizados. | Reforzar alianzas con agencias locales para experiencias culturales en zonas menos exploradas. |
+| ToursByLocals tiene alta reputación y seguridad. | Incorporar validación de identidad, garantías y sistema de soporte proactivo. |
+| Showaround apela al contacto informal entre viajeros y locales. | Crear perfiles verificados para guías y filtros por estilo de viaje para personalización real. |
+
+#### Frente a las debilidades de los competidores
+
+| **Debilidades de los competidores** | **Tácticas de TripMatch** |
+|------------------------------------|-------------------------------|
+| Withlocals está limitado a ciudades grandes. | Enfocarse en destinos emergentes y rurales dentro del Perú. |
+| ToursByLocals tiene precios elevados. | Ofrecer experiencias de calidad a precios accesibles gracias a la eliminación de intermediarios. |
+| Showaround carece de control de calidad. | Sistema de reputación, verificación de agencias y reseñas verificadas. |
+
+#### Aprovechamiento de oportunidades del entorno
+
+| **Oportunidades del entorno** | **Estrategias para capitalizarlas** |
+|-------------------------------|------------------------------------|
+| Creciente interés en el turismo responsable. | Promover experiencias sostenibles y apoyar económicamente a comunidades locales. |
+| Mayor uso de herramientas digitales para planificar viajes. | Optimizar UX de TripMatch para dispositivos móviles y ofrecer recomendaciones inteligentes. |
+
+#### Mitigación de amenazas del entorno
+
+| **Amenazas externas** | **Tácticas de mitigación** |
+|------------------------|----------------------------|
+| Presencia de plataformas consolidadas. | Posicionar TripMatch como una solución peruana con valor local y enfoque en experiencias genuinas. |
+| Baja confianza en plataformas nuevas. | Transparencia total en tarifas, reseñas verificadas, y garantías de reserva. |
+
+#### Estrategia general
+
+TripMatch se posicionará como una plataforma peruana de turismo responsable y digitalizado, enfocada en conectar viajeros con experiencias auténticas de forma directa y accesible. Su modelo flexible y su enfoque en la experiencia del usuario permitirá escalar en destinos clave del Perú y luego expandirse regionalmente, diferenciándose de competidores globales por su cercanía, confiabilidad y valor cultural.
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 **Preguntas Generales:**  
