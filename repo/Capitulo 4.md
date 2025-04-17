@@ -84,7 +84,7 @@ Para garantizar una experiencia de usuario fluida y eficiente, se ha definido un
 ### 4.6.1. Software Architecture Context Diagram
 Este diagrama muestra el sistema TripMatch dentro de su entorno, identificando cómo interactúa con usuarios y otros sistemas externos.
 
-![tipography TripMatch](SystemContext-TripMatch.png)
+![Context Diagram TripMatch](SystemContext-TripMatch.png)
 
 ### 4.6.2. Software Architecture Container Diagrams
 Este diagrama detalla los principales contenedores (aplicaciones o servicios ejecutables) que componen el sistema y cómo se comunican entre sí.
