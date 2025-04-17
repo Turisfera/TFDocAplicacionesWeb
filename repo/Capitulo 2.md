@@ -5,7 +5,7 @@
     **¿Por qué llevar a cabo este análisis?**  
     Este análisis permite entender el entorno competitivo en el que TripMatch operará, identificar las fortalezas y debilidades de plataformas similares a nivel local e internacional, y delinear estrategias efectivas para posicionar a Turisnap como una solución confiable y diferenciada para el turismo personalizado y responsable.
 
-    | **Categoría** | **TripMatch**<br>![TripMatch Logo](img/tripmatch-logo.png) | **Withlocals**<br>![Withlocals Logo](img/withlocals-logo.png) | **ToursByLocals**<br>![ToursByLocals Logo](img/toursbylocals-logo.png) | **Showaround**<br>![Showaround Logo](img/showaround-logo.png) |
+    | **Categoría** | **TripMatch**<br>![TripMatch Logo](img/logo-TripMatch.png) | **Withlocals**<br>![Withlocals Logo](img/withlocals-logo.png) | **ToursByLocals**<br>![ToursByLocals Logo](img/toursbylocals-logo.png) | **Showaround**<br>![Showaround Logo](img/showaround-logo.png) |
     |---------------|------------------|-------------------|----------------------|----------------------|
     | **Overview** | Plataforma digital que conecta turistas con agencias locales para experiencias personalizadas. | Conecta viajeros con anfitriones locales para tours privados. | Tours privados guiados por expertos locales. | Recorridos personalizados con locales en su ciudad. |
     | **Ventaja competitiva** | Filtros por tipo de viaje, presupuesto, duración; reservas instantáneas; soporte a agencias locales. | Experiencias privadas y auténticas en ciudades populares. | Personalización de itinerarios con guías especializados. | Perspectiva local auténtica para conocer la ciudad como residente. |
