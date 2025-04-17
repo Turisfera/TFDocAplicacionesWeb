@@ -39,25 +39,34 @@ Además, se prioriza la experiencia del usuario mediante interacciones suaves, m
 Para garantizar una experiencia intuitiva y sin confusiones, las etiquetas empleadas en TripMatch han sido diseñadas con base en principios de simplicidad, claridad y consistencia.
 
 **Etiquetas para la navegación principal (menú inferior):**
-* Inicio: Página principal con acceso a destinos sugeridos y novedades.
-* Explorar: Sección para descubrir nuevos lugares mediante filtros o búsqueda.
-* Itinerario: Espacio donde el usuario puede planificar, visualizar y editar sus viajes.
-* Amigos: Conexiones sociales y visualización de itinerarios compartidos.
-* Perfil: Acceso a la información personal y configuraciones.
+* **Inicio:** Página principal con acceso a destinos sugeridos y novedades.
+* **Explorar:** Sección para descubrir nuevos lugares mediante filtros o búsqueda.
+* **Itinerario:** Espacio donde el usuario puede planificar, visualizar y editar sus viajes.
+* **Amigos:** Conexiones sociales y visualización de itinerarios compartidos.
+* **Perfil:** Acceso a la información personal y configuraciones.
 
 **Etiquetas para acciones:**
-* Buscar: Entrada para realizar búsquedas de destinos o usuarios.
-* Agregar al itinerario: Acción rápida para incluir un destino en un viaje.
-* Compartir: Opción para enviar itinerarios a amigos.
-* Editar / Eliminar: Gestión de elementos guardados por el usuario.
-* Guardar cambios: Confirmación de edición o creación de itinerario.
+* **Buscar:** Entrada para realizar búsquedas de destinos o usuarios.
+* **Agregar al itinerario:** Acción rápida para incluir un destino en un viaje.
+* **Compartir:** Opción para enviar itinerarios a amigos.
+* **Editar / Eliminar:** Gestión de elementos guardados por el usuario.
+* **Guardar cambios:** Confirmación de edición o creación de itinerario.
 
 **Etiquetas asociativas para categorías:**
-* Populares, Culturales, Naturaleza, Aventura, Relax: Categorías que agrupan destinos según intereses.
-* Hoy, Próximo destino, Favoritos: Agrupaciones cronológicas y personalizadas que facilitan el acceso a información relevante.
+* **Populares, Culturales, Naturaleza, Aventura, Relax:** Categorías que agrupan destinos según intereses.
+* **Hoy, Próximo destino, Favoritos:** Agrupaciones cronológicas y personalizadas que facilitan el acceso a información relevante.
 
 ### 4.2.3. SEO Tags and Meta Tags 
+
+
+
 ### 4.2.4. Searching Systems
+Para garantizar una experiencia de usuario fluida y eficiente, se ha definido un sistema de búsqueda que facilite el acceso a la información dentro de TripMatch. 
+* **Búsqueda de destinos turísticos:** con filtros por tipo de lugar (playa, ciudad, naturaleza), presupuesto, temporada y popularidad.
+* **Búsqueda de experiencias:** por categoría (aventura, cultura, gastronomía), ubicación y duración.
+* **Búsqueda por palabras clave:** desde cualquier pantalla, para encontrar rápidamente destinos, usuarios o actividades relacionadas.
+* **Historial y búsquedas guardadas:** los usuarios podrán revisar búsquedas recientes y guardar filtros frecuentes para agilizar futuras consultas.
+
 ### 4.2.5. Navigation Systems
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
