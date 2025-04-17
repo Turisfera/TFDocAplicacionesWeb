@@ -1,6 +1,6 @@
 # Capítulo 4: Product Design
 ## 4.1. Style Guidelines
-Las Style Guidelines son un conjunto de normas que definen la redacción, diseño y presentación del contenido del proyecto. El equipo ha creado un repositorio centralizado con recursos visuales compartidos para garantizar coherencia en la aplicación web, móvil y landing page. Estas guías, basadas en principios de diseño, se organizan en tres secciones: General, Web y Mobile.
+Una Style Guidelines es un conjunto de lineamientos y criterios que establecen la forma en que deben redactarse, diseñarse o presentar documentos, contenido web, software u otros tipos de trabajos creativos. A continuación, se describen las especificaciones de los parámetros aplicados en la estructura del proyecto.
 
 ### 4.1.1. General Style Guidelines
 __Branding:__
@@ -68,7 +68,6 @@ Para garantizar una experiencia de usuario fluida y eficiente, se ha definido un
 * **Historial y búsquedas guardadas:** los usuarios podrán revisar búsquedas recientes y guardar filtros frecuentes para agilizar futuras consultas.
 
 ### 4.2.5. Navigation Systems
-
 
 
 ## 4.3. Landing Page UI Design
