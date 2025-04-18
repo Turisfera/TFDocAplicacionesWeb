@@ -105,7 +105,7 @@ Segmento 2: Agencias de Turismo
 
 ### 2.2.3. Análisis de entrevistas
 >Segmento 1: Turistas
-Hallazgos:
+### Hallazgos:
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 >Segmento 1: Turistas
