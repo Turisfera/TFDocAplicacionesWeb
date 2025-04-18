@@ -101,8 +101,8 @@ Hemos observado un factor crítico que afecta tanto a viajeros como a agencias l
 - Voy a adquirir la mayoría de mis clientes a través de marketing digital, alianzas con blogs y comunidades de viajeros, y estrategias de marketing con beneficios para usuarios que recomienden la plataforma.
 - Haré dinero a través de marketing digital, anuncios y alianzas estratégicas con influencers de viajes.
 - Mi competencia principal en el mercado serán plataformas como "TripMatch", "Withlocals", "ToursByLocals" y "Showaround", que se centran en ofrecer experiencias turísticas personalizadas a través de guías o agencias locales.
-- Los venceremos debido a 
-- Mi mayor riesgo de producto es...
+- Los venceremos debido a nuestro enfoque centrado en el turismo local auténtico, brindando soporte personalizado a pequeñas agencias que normalmente no tienen acceso a herramientas tecnológicas avanzadas. Además, nuestra tecnología prioriza la conexión directa, la confianza y la personalización, lo que nos diferencia de plataformas más genéricas y globalizadas.
+- Mi mayor riesgo de producto es que las agencias locales no adopten la plataforma por falta de habilidades digitales o que no mantengan su información actualizada, afectando la calidad del servicio.
 - Resolveremos esto a través de...
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
