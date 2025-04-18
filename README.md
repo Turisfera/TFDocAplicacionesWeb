@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/UpcLogo.png" alt="Logo de UPC" width="100%">
+  <img src="repo/img/UpcLogo.png" alt="Logo de UPC" width="100%">
 </p>
 
 <div align="center">
