@@ -36,4 +36,37 @@ Para organizar nuestro proyecto y sus modificaciones, hemos
 - Link de la landing page: 
 - Link del informe: 
 - Link del front end: 
-- Link del back end: 
+- Link del back end:
+
+### 5.1.3. Source Code Style Guide & Conventions
+
+**HTML**: Unas de las prácticas que hemos seguido para alcanzar un código limpio, conciso, coherente, legible y escalable son las siguientes:
+
+- Se usan elementos HTML que tengan un significado claro y preciso para el contenido que se está marcando. Por ejemplo, utiliza header, nav, main, article, section, aside, footer, entre otros, para estructurar la landing page de forma semántica.
+- Aunque HTML5 permite algunas etiquetas sin cierre (como "img" y "input"), utilizamos la buena práctica de cerrar todas las etiquetas correctamente para evitar problemas de renderizado. Por ejemplo: `<p> Código claro y legible.</p>`
+- Para mejorar la accesibilidad, siempre incluye el atributo alt en las etiquetas "img" para describir brevemente el contenido de la imagen. Por ejemplo: `<img src="image.img" alt="brief image name">`
+- HTML permite combinar mayúsculas y minúsculas en los nombres de los elementos y atributos, pero limitamos dar
+  al uso de solo minúsculas para preservar el orden y asegurar la legibilidad del código.
+- No omitir las etiquetas `<html>`, `<body>` y `<header>`.
+- Escribir en una línea los comentarios cortos.
+
+**CSS**: Entre las prácticas se mencionan:
+
+- Los nombres de clases son intuitivos, legibles y autodescriptivos.
+- Separar los nombres de las clases y ID con guión, por ejemplo: `#userTurista-id` y`.userImg-shape{}`
+- Separar las declaraciones y selectores en nuevas líneas para agilizar la legibilidad.
+- Usar comentarios para explicar el código.
+- Aplicar sangría a todo el contenido de un bloque.
+
+**JavaScript**: Principales prácticas aplicadas:
+
+- Uso de camelCase para nombrar variables y funciones. Por ejemplo, `myVariable` y `myFunction`.
+- Uso de PascalCase para nombrar clases y constructores.Por ejemplo, `myClass`.
+- Evitar el uso de nombres de variables genéricos o ambiguos.
+- Uso general de comentarios para explicar el propósito y funcionalidad de la porción del código.
+- Uso de punto y coma al final de cada declaración.
+- Uso de comillas simples ('') o comillas dobles ("") de forma consistente para las cadenas de texto.
+- Organización del código en bloques lógicos separados por líneas en blanco para mejorar la legibilidad.
+- Uso de el operador ternario `(condición ? resultadoTrue : resultadoFalse)` de manera adecuada y legible.
+- Evitar el uso de funciones obsoletas o en desuso.
+- Uso de try-catch para manejar y gestionar errores de manera adecuada.
