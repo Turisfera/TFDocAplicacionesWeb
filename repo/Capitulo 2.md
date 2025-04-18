@@ -107,7 +107,7 @@ Segmento 2: Agencias de Turismo
 >Segmento 1: Turistas
 
 Hallazgos:
-+Los lugares de reserva no suelen ser lo esperado.
++ Los lugares de reserva no suelen ser lo esperado.
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
