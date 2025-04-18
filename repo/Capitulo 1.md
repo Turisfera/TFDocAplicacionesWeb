@@ -103,7 +103,7 @@ Hemos observado un factor crítico que afecta tanto a viajeros como a agencias l
 - Mi competencia principal en el mercado serán plataformas como "TripMatch", "Withlocals", "ToursByLocals" y "Showaround", que se centran en ofrecer experiencias turísticas personalizadas a través de guías o agencias locales.
 - Los venceremos debido a nuestro enfoque centrado en el turismo local auténtico, brindando soporte personalizado a pequeñas agencias que normalmente no tienen acceso a herramientas tecnológicas avanzadas. Además, nuestra tecnología prioriza la conexión directa, la confianza y la personalización, lo que nos diferencia de plataformas más genéricas y globalizadas.
 - Mi mayor riesgo de producto es que las agencias locales no adopten la plataforma por falta de habilidades digitales o que no mantengan su información actualizada, afectando la calidad del servicio.
-- Resolveremos esto a través de...
+- Resolveremos esto a través de capacitación inicial y soporte técnico continuo para las agencias, una interfaz intuitiva especialmente pensada para usuarios con poca experiencia digital, y recordatorios automáticos que faciliten la gestión de sus servicios y reservas.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 - **Creemos que** ofrecer filtros avanzados aumentará la adopción de la plataforma por parte de viajeros que buscan personalización. <br>
