@@ -27,4 +27,13 @@ para elaborar la interfaz deusuario dentro de la aplicación.
 
 1. Github: Plataforma basada en la nube que alojará los repositorios de código del proyecto. Facilitará la colaboración entiempo real y la revisión de contribuciones de cada miembro del equipo. Los miembros del equipo accederán a través desus navegadores web. 
 
+### 5.1.2. Source Code Management
 
+Para organizar nuestro proyecto y sus modificaciones, hemos 
+**Liks del repositorio de GitHub**:
+
+- Link de la organización: 
+- Link de la landing page: 
+- Link del informe: 
+- Link del front end: 
+- Link del back end: 
