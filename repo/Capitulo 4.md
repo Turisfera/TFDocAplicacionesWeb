@@ -85,10 +85,12 @@ Este diagrama muestra el sistema TripMatch dentro de su entorno, identificando c
 ### 4.6.2. Software Architecture Container Diagrams
 Este diagrama detalla los principales contenedores (aplicaciones o servicios ejecutables) que componen el sistema y cómo se comunican entre sí.
 
+![Container Diagram TripMatch](img/Diagrama de Contenedores - TripMatch.png)
 
 ### 4.6.3. Software Architecture Components Diagrams
 Este diagrama profundiza en los componentes internos del contenedor principal
 
+![Component Diagram TripMatch](img/SystemContext-TripMatch.png)
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
