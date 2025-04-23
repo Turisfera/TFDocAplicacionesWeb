@@ -100,7 +100,7 @@ Segmento 2: Agencias de Turismo
 | Número de entrevista | Datos del entrevistado | Evidencia de entrevista |
 |----------------------|------------------------|-------------------------|
 | 1 | Nombres: Abigail Rodriguez<br> Edad:  21 años<br> Distrito: Surco<br> Agencia de Turismo: Authentic Peru Travel<br> Link: [Entrevista 1: ]() | ![Entrevista 1: Evidencia]() |
-| 2 | Nombres: NOMBRE Y APELLIDO<br> Edad: 00 años<br> Distrito: DISTRITO<br> Agencia de Turismo: <br> Link: | Foto |
+| 2 | Nombres: Jose Sosa<br> Edad: 22 años<br> Distrito: Los Olivos<br> Agencia de Turismo: Travel Perú <br> Link: [Entrevista 2: Jose Sosa](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316057_upc_edu_pe/EYVl_NJV4VNGtS-3XhPGVhIBLR2bjWAxQK1Iz8K4b-xVyQ?e=RlInAd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |![Entrevista 2: Evidencia](img/entrevista-agencia-jose.png)                                                 |
 | 3 | Nombres: NOMBRE Y APELLIDO<br> Edad: 00 años<br> Distrito: DISTRITO<br> Agencia de Turismo: <br> Link: | Foto |
 
 
