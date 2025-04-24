@@ -154,21 +154,24 @@ Con esta configuración, cualquier actualización en `main`—ya sea HTML, CSS, 
 <tbody>
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint #</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint 1</strong></td></tr>
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Planning Backlog</strong></td></tr>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Date</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"></td></tr>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Time</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"></td></tr>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Location</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"></td></tr>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Prepared By</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"></td></tr>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Attendees</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Date</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">19/04/2025</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Time</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3 horas</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Location o Platform</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Discord</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Prepared By</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Marcia Victoria Melgarejo Gomez-U20231C505</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Attendees</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">María Patricia Hernández Uchuya-U202311258</br> Britney Delhy Qqueso Rodriguez-U20211G671</br> Rodrigo Alaya Cabrera-U202219481</br> Ariadna Geraldine Poma Muñoz-U20221D328</br> Jorge Enrique Guevara Tejada-U202316057</br> Raúl Adrian Medina Cruzado-U202210938</td></tr>
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Goal &amp; User Stories</strong></td></tr>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 1 Goal</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"> </td></tr>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 1 Velocity</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong></strong></td></tr>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sum of Story Points</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong></strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 1 Goal</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Diseñp y desarrollo del landing page</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 1 Velocity</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">15<strong></strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sum of Story Points</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">15<strong></strong></td></tr>
 </tbody>
 </table>
 
-
 #### 5.2.1.2. Aspect Leaders and Collaborators
 #### 5.2.1.3. Sprint Backlog 1
+|**Sprint #**|Sprint 1|||||||
+|User Story|Work-Itrm/Task|||||||
+|**Id**|**Title**|**Id**|**Title**|**Description**|**Estimation** (Hours)|**Assigned To**|**Status** (To-do/In Process/ToReview/Done)|
+
 #### 5.2.1.4. Development Evidence for Sprint Review
 #### 5.2.1.5. Execution Evidence for Sprint Review
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
