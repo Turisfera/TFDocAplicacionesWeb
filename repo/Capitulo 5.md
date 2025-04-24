@@ -114,10 +114,36 @@ Para garantizar código limpio, consistente y mantenible, adoptamos las siguient
   export async function fetchUser(id) { … }
 
   
-### 5.1.4. Software Deployment Configuration
+### 5.1.4 Software Deployment Configuration
 
-Para desplegar la landing page es necesario contar con una serie de requisitos, entre ellos, es necesario contar con una cuenta personal, una organización y un repositorio al cual cargar los documentos. A partir de lo anterior, es posible comenzar el despliegue de la landing page. A continuación se enuncian los pasos a seguir:
-Crear una carpeta llamada "docs" para alojar el Landing Page. Asegurarse de que los archivos sigan las nomenclaturas "index.html", "style.css", "funcionalities.js" y una carpeta llamada "img" que contenga las imágenes. Cargar los archivos al repositorio mediante un commit. Dirigirse a Settings > Pages y seleccionar el branch correspondiente. Especificar la carpeta "docs" como la fuente de la página. Esperar a que GitHub realice las comprobaciones necesarias. Una vez culminado el proceso, se obtendrá un enlace que llevará al Landing Page desplegado
+Para el despliegue de la **Landing Page** en GitHub Pages, hemos seguido estos pasos:
+
+1. **Repositorio**  
+   - URL: https://github.com/Turisfera/Landing-Page  
+   - Rama principal: `main`  
+
+2. **Estructura de archivos**  
+   - `index.html` en la raíz  
+   - Carpetas:  
+     - `styles/` (CSS)  
+     - `scripts/` (JavaScript)  
+     - `img/` (imágenes y assets)  
+
+3. **Configuración de GitHub Pages**  
+   - En el repositorio, ir a **Settings → Pages**  
+   - Seleccionar fuente de despliegue:  
+     - **Branch**: `main`  
+     - **Folder**: `/ (root)`  
+   - Guardar los cambios  
+
+4. **Publicación automática**  
+   Cada vez que hacemos `git push origin main`, GitHub reconstruye y publica la página sin intervención manual.
+
+5. **URL pública**  
+   https://turisfera.github.io/Landing-Page/
+
+Con esta configuración, cualquier actualización en `main`—ya sea HTML, CSS, JS o imágenes—se refleja automáticamente en el sitio publicado.
+
 
 
 
