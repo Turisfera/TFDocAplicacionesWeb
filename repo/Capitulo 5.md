@@ -16,9 +16,8 @@
 **Software Development**  
 1. **[WebStorm](https://www.jetbrains.com/webstorm/)**: IDE de JetBrains con autocompletado inteligente, refactorización segura, depurador integrado y plugins de linters/formateadores.  
 2. **HTML5**: Lenguaje de marcado semántico para estructurar contenido y mejorar accesibilidad (etiquetas `<header>`, `<nav>`, `<main>`, `<footer>`).  
-3. **CSS3**: Hojas de estilo en cascada para layouts con Flexbox y Grid, media queries y variables CSS, siguiendo la convención BEM ligero.  
+3. **CSS**: Hojas de estilo en cascada para layouts, media queries y variables CSS, siguiendo la convención BEM ligero.  
 4. **[JavaScript](https://developer.mozilla.org/docs/Web/JavaScript)**: Lenguaje de scripting para manipular el DOM, manejar eventos y validar formularios en `script.js` (por ejemplo, validación de campos antes de enviar).  
-5. **[Angular CLI](https://angular.io/cli)**: Herramienta de línea de comandos para scaffolding de proyectos, generación de componentes y builds optimizados en aplicaciones SPA basadas en TypeScript.
 
 **Software Deployment**  
 1. **[Git](https://git-scm.com/)**: Sistema de control de versiones distribuido. Utilizamos GitFlow para crear ramas `feature/`, `release/` y `hotfix/`, facilitar merges y revertir cambios si es necesario.  
@@ -67,7 +66,7 @@ git push origin v1.0.0
 
 **Repositorios & Enlaces**
 - **Landing Page**: https://github.com/Turisfera/Landing-Page
-- **Repositorie**:https://githu.com/Turisfera/TFDocAplicacionesWeb
+- **Repositorie**: https://github.com/Turisfera/TFDocAplicacionesWeb
 
 Cada repositorio sigue el mismo flujo GitFlow y cumple con las convenciones de naming y commits descritas.
 
