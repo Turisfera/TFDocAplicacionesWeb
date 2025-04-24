@@ -1,42 +1,75 @@
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
-### 5.1.1. Software Development Environment Configuration
-**Requirements Management**
-1. Trello: Es una herramienta utilizada para gestionar el flujo de trabajo de proyectos principalmente basados en marcos detrabajos ágiles. Será empleado para visualizar y actualizar el estado actual de las tareas e historias de usuariopertenecientes al sprint a desarrollar. 
-2. Vertabelo: Herramienta técnica para diseñar y modelar bases de datos. 
+### 5.1.1 Configuración del Entorno de Desarrollo de Software
 
-**Product UX/UI Design**
+**Requirements Management**  
+1. **[Trello](https://trello.com/)**: Tablero Kanban web para planificar y hacer seguimiento de historias de usuario y tareas por sprint. Permite asignar responsables, fechas de entrega y checklists para cada tarjeta.  
+2. **[Discord](https://discord.com/)**: Plataforma de chat y voz VoIP con canales temáticos, notificaciones y bots. Se utiliza como canal principal de comunicación en tiempo real, para compartir pantallazos de código, coordinar reuniones flash y notificar despliegues.  
+3. **[Vertabelo](https://vertabelo.com/)**: Herramienta SaaS para diseño y modelado de bases de datos relacionales. Facilita la creación de diagramas ER, versionado de esquemas y generación de scripts SQL.
 
-1. Figma: Plataforma de elaboración de prototipos y edición gráfica, principalmente utilizado para el diseño digital. En elcaso del proyecto, será utilizado para el prototipado de la aplicación y sus versiones de Desktop y Mobile Web Browser.
-2. LucidChart: Aplicación para diagramar flujos. Será empleado para el diseño de wireflows, user-flows y el diagrama declases asociado a la aplicación.
-3. Uxpressia:
+**Product UX/UI Design**  
+1. **[Figma](https://www.figma.com/)**: Editor de interfaces colaborativo en la nube. Soporta diseño vectorial, prototipado interactivo y comentarios en tiempo real. Usado para iterar wireframes y mock-ups de Desktop y Mobile Web.  
+2. **[Lucidchart](https://www.lucidchart.com/)**: Aplicación web para diagramas de flujo, wireflows y diagramas de clases. Permite conectar objetos con líneas inteligentes y exportar en múltiples formatos.  
+3. **[Uxpressia](https://uxpressia.com/)**: Plataforma online para mapas de empatía, Customer Journey y escenarios As-Is / To-Be. Estandariza hallazgos de entrevistas y visualiza puntos de dolor.  
+4. **[Visual Paradigm](https://www.visual-paradigm.com/)**: Suite de modelado UML y C4 para diagramas de contenedores, componentes y despliegue. Genera documentación técnica que facilita la comunicación entre analistas y desarrolladores.
 
-**Software Development**
+**Software Development**  
+1. **[WebStorm](https://www.jetbrains.com/webstorm/)**: IDE de JetBrains con autocompletado inteligente, refactorización segura, depurador integrado y plugins de linters/formateadores.  
+2. **HTML5**: Lenguaje de marcado semántico para estructurar contenido y mejorar accesibilidad (etiquetas `<header>`, `<nav>`, `<main>`, `<footer>`).  
+3. **CSS3**: Hojas de estilo en cascada para layouts con Flexbox y Grid, media queries y variables CSS, siguiendo la convención BEM ligero.  
+4. **[JavaScript](https://developer.mozilla.org/docs/Web/JavaScript)**: Lenguaje de scripting para manipular el DOM, manejar eventos y validar formularios en `script.js` (por ejemplo, validación de campos antes de enviar).  
+5. **[Angular CLI](https://angular.io/cli)**: Herramienta de línea de comandos para scaffolding de proyectos, generación de componentes y builds optimizados en aplicaciones SPA basadas en TypeScript.
 
-1. WebStorm: Entorno de desarrollo integrado elegido para la elaboración y compilación del código por motivos dedominio por parte de los integrantes del equipo de trabajo. Utilizar este IDE supone de valor para el desarrollo del proyecto puesto que incluye la posibilidad de agregar extensiones de utilidad, soporte de edición de texto en múltipleslenguajes de programación, disponibilidade en múltiples sistemas operativos, entre otros beneficios. 
-2. HTML5: HyperText Markup Language, o por sus siglas HTML, es un lenguaje de etiquetado para páginas web. Seráempleado en el desarrollo del proyecto para la presentación del contenido en la aplicación.
-3. CSS: Cascading Style Sheets es un lenguaje que maneja el diseño y presentación de las página
-para elaborar la interfaz deusuario dentro de la aplicación. 
-5. Angular: Angular es un framework de desarrollo de aplicaciones web de código abierto y basado en TypeScript, mantenido por Google y una comunidad de desarrolladores. Es utilizado para crear aplicaciones web de una sola página (SPA) y aplicaciones web dinámicas. Angular proporciona un conjunto de herramientas y bibliotecas que simplifican el desarrollo de aplicaciones web complejas al seguir el patrón de arquitectura Modelo-Vista-Controlador (MVC) y ofrecer funcionalidades como enlace de datos bidireccional, inyección de dependencias, rutas, formularios reactivos, animaciones y mucho más 
+**Software Deployment**  
+1. **[Git](https://git-scm.com/)**: Sistema de control de versiones distribuido. Utilizamos GitFlow para crear ramas `feature/`, `release/` y `hotfix/`, facilitar merges y revertir cambios si es necesario.  
+2. **[GitHub Pages](https://pages.github.com/)**: Servicio de hosting estático gratuito. Configuramos la carpeta `/docs` en `main` para publicar automáticamente la landing page tras cada push.
 
-**Software Deployment**
+**Software Documentation and Project Management**  
+1. **[GitHub](https://github.com/)** (Wiki / `README.md`): Documentación técnica centralizada con guías de estilo, convenciones de commits y manuales de despliegue.  
+2. **[Google Drive](https://drive.google.com/)** / **[Google Docs](https://docs.google.com/)**: Repositorio de requisitos, actas de reunión y borradores de informes con control de versiones de documento y comentarios colaborativos.  
 
-1. Git: Herramienta de control de versiones que permite registrar y gestionar las diferentes versiones del programa. Seutilizará para mantener un historial de cambios y simplificar la corrección de errores. Los miembros del equipo accederána través de la línea de comandos en sus sistemas locales. 
+### 5.1.2 Source Code Management
 
-**Software Documentation and Project Management**
+Para garantizar trazabilidad y control de versiones claros, adoptamos el modelo **GitFlow** de Vincent Driessen (https://nvie.com/posts/a-successful-git-branching-model/):
 
-1. Github: Plataforma basada en la nube que alojará los repositorios de código del proyecto. Facilitará la colaboración entiempo real y la revisión de contribuciones de cada miembro del equipo. Los miembros del equipo accederán a través desus navegadores web. 
+**Branching Model (GitFlow)**
+1. **main**: contiene siempre el código listo para producción.
+2. **develop**: integración continua de todas las _features_ terminadas; funciona como base para nuevos desarrollos.
+3. **feature/<name>**: ramas derivadas de `develop` para cada funcionalidad.
+```bash
+git checkout develop
+git checkout -b feature/user-auth
+```
+Al completarla, abrimos un Pull Request hacia `develop`.
 
-### 5.1.2. Source Code Management
+4. **release/vMAJOR.MINOR.PATCH**: se crea desde `develop` para preparar una nueva versión; en ella corregimos bugs menores, actualizamos documentación y realizamos el bump de versión.
+5. **hotfix/vMAJOR.MINOR.PATCH**: correcciones urgentes derivadas de `main`; tras aplicarlas, se fusiona tanto a `main` como a `develop`.
 
-Para organizar nuestro proyecto y sus modificaciones, hemos 
-**Liks del repositorio de GitHub**:
+**Versionado Semántico & Conventional Commits**
+- **Semantic Versioning** (`MAJOR.MINOR.PATCH`):
+  - **MAJOR**: cambios incompatibles con versiones anteriores.
+  - **MINOR**: añadidos de funcionalidades sin romper API.
+  - **PATCH**: correcciones de bugs y mejoras menores.
+- **Conventional Commits**: mensajes de commit con estructura:
+  ```text
+  docs(report): actualizar sección 5.1.2 de Source Code Management
+  feat(landing-page): centrar iconos sociales y mejorar CSS de formulario
+  fix(form-validation): impedir envío si hay errores de validación
+  chore(assets): agregar diagramas UML de C4 en carpeta img
+Esto facilita la generación de _changelogs_ automáticos y una lectura rápida del historial.
 
-- Link de la organización: 
-- Link de la landing page: 
-- Link del informe: 
-- Link del front end: 
-- Link del back end:
+**Etiquetado de Releases**
+Al finalizar el testing de una _release_ branch, generamos la etiqueta con:
+```bash
+git tag -a v1.0.0 -m "release: v1.0.0"
+git push origin v1.0.0
+```
+
+**Repositorios & Enlaces**
+- **Landing Page**: https://github.com/Turisfera/Landing-Page
+- **Repositorie**:https://githu.com/Turisfera/TFDocAplicacionesWeb
+
+Cada repositorio sigue el mismo flujo GitFlow y cumple con las convenciones de naming y commits descritas.
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
