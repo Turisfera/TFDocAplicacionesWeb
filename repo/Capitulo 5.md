@@ -71,38 +71,47 @@ git push origin v1.0.0
 
 Cada repositorio sigue el mismo flujo GitFlow y cumple con las convenciones de naming y commits descritas.
 
-### 5.1.3. Source Code Style Guide & Conventions
+### 5.1.3 Source Code Style Guide & Conventions
 
-**HTML**: Unas de las prácticas que hemos seguido para alcanzar un código limpio, conciso, coherente, legible y escalable son las siguientes:
+Para garantizar código limpio, consistente y mantenible, adoptamos las siguientes convenciones (todas en inglés):
 
-- Se usan elementos HTML que tengan un significado claro y preciso para el contenido que se está marcando. Por ejemplo, utiliza header, nav, main, article, section, aside, footer, entre otros, para estructurar la landing page de forma semántica.
-- Aunque HTML5 permite algunas etiquetas sin cierre (como "img" y "input"), utilizamos la buena práctica de cerrar todas las etiquetas correctamente para evitar problemas de renderizado. Por ejemplo: `<p> Código claro y legible.</p>`
-- Para mejorar la accesibilidad, siempre incluye el atributo alt en las etiquetas "img" para describir brevemente el contenido de la imagen. Por ejemplo: `<img src="image.img" alt="brief image name">`
-- HTML permite combinar mayúsculas y minúsculas en los nombres de los elementos y atributos, pero limitamos dar
-  al uso de solo minúsculas para preservar el orden y asegurar la legibilidad del código.
-- No omitir las etiquetas `<html>`, `<body>` y `<header>`.
-- Escribir en una línea los comentarios cortos.
+**HTML**  
+- **Semantics first**: usar etiquetas `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<footer>` según el propósito del contenido.  
+- **Lowercase & closing tags**: nombres de elementos y atributos siempre en minúsculas, cerrar explícitamente todas las etiquetas (incluyendo `<img />`, `<input />`).  
+- **Attribute order**: primero `id`, luego `class`, después otros atributos (`name`, `src`, `alt`, `aria-*`).  
+- **Indentation**: 2 spaces por nivel de anidamiento.  
+- **Comments**: `<!-- Comment -->` en una línea o multilínea, sin abreviaturas.
 
-**CSS**: Entre las prácticas se mencionan:
+**CSS**  
+- **Naming**: kebab-case para clases y selectores (`.btn-primary`, `.card-header`).  
+- **BEM‐inspired**: bloques, elementos y modificadores (`.block`, `.block__element`, `.block--modifier`).  
+- **Property order**:  
+  1. Positioning (`position`, `top`, `left`, `z-index`)  
+  2. Box Model (`display`, `margin`, `padding`, `width`, `height`)  
+  3. Typography (`font`, `line-height`, `color`)  
+  4. Visual (`background`, `border`, `box-shadow`)  
+  5. States and interactions (`:hover`, `:focus`, `:active`)  
+- **Formatting**: 2 spaces por nivel, un selector por línea, llave de apertura en la misma línea, cierre en nueva línea.  
+- **Comments**: `/* Section name */` para separar bloques lógicos.
 
-- Los nombres de clases son intuitivos, legibles y autodescriptivos.
-- Separar los nombres de las clases y ID con guión, por ejemplo: `#userTurista-id` y`.userImg-shape{}`
-- Separar las declaraciones y selectores en nuevas líneas para agilizar la legibilidad.
-- Usar comentarios para explicar el código.
-- Aplicar sangría a todo el contenido de un bloque.
-
-**JavaScript**: Principales prácticas aplicadas:
-
-- Uso de camelCase para nombrar variables y funciones. Por ejemplo, `myVariable` y `myFunction`.
-- Uso de PascalCase para nombrar clases y constructores.Por ejemplo, `myClass`.
-- Evitar el uso de nombres de variables genéricos o ambiguos.
-- Uso general de comentarios para explicar el propósito y funcionalidad de la porción del código.
-- Uso de punto y coma al final de cada declaración.
-- Uso de comillas simples ('') o comillas dobles ("") de forma consistente para las cadenas de texto.
-- Organización del código en bloques lógicos separados por líneas en blanco para mejorar la legibilidad.
-- Uso de el operador ternario `(condición ? resultadoTrue : resultadoFalse)` de manera adecuada y legible.
-- Evitar el uso de funciones obsoletas o en desuso.
-- Uso de try-catch para manejar y gestionar errores de manera adecuada.
+**JavaScript**  
+- **Naming**:  
+  - `camelCase` para variables y funciones (`myFunction`, `userName`).  
+  - `PascalCase` para clases y constructores (`UserService`, `DataModel`).  
+- **Syntax**:  
+  - Siempre `;` al final de declaraciones.  
+  - Comillas simples para strings (`'hello'`), salvo cuando el contenido requiere comillas dobles.  
+- **Indentation**: 2 spaces, no tabs.  
+- **Modern ES**: usar `const`/`let` en lugar de `var`, arrow functions para callbacks.  
+- **Modules**: `import { something } from './module.js';`  
+- **Comments & JSDoc**:  
+  ```js
+  /**
+   * Fetch user data by ID.
+   * @param {string} id
+   * @returns {Promise<User>}
+   */
+  export async function fetchUser(id) { … }
 
   
 ### 5.1.4. Software Deployment Configuration
