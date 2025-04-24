@@ -104,7 +104,64 @@ El mock-up de la landing page presenta un diseño limpio, moderno y enfocado en 
 ![Landing Page- Mock Up](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/4f8afc52f1a370bde296fec5e8ecc92ab0a01c52/repo/img/Landing%20Page-%20Mock%20Up.png)
 
 ## 4.4. Web Applications UX/UI Design
-### 4.4.1. Web Applications Wireframes
+### 4.4.1. Web Applications Wireframes  
+La propuesta de wireframes fue desarrollada aplicando los principios de diseño inclusivo, accesibilidad, jerarquía visual y usabilidad. Se busca asegurar una navegación clara y coherente, tanto para turistas como para agencias, adaptando la estructura y contenido de la interfaz según el tipo de usuario para optimizar su experiencia.  
+
+Estructura General  
+La interfaz cuenta con una barra de navegación dinámica que varía según el perfil del usuario (turista o agencia). Las secciones están organizadas para facilitar el acceso rápido a las funcionalidades más importantes para cada rol.
+
+**Para turistas**  
+Se divide en Inicio, favoritos, itinerarios y una barra de busqueda rapida, donde podra buscar agencias y experiencias por nombre.
+
+
+
+**Itinerarios**  
+
+Se muestra el historial de reservas del usuario, permitiéndole ver detalles de sus próximas experiencias y acceder fácilmente a la información necesaria para cada actividad.    
+
+![Wireframe-itinerary-tourits](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/60055f00da2f08bfc72e5b672a2a93ac2f9ec49e/repo/img/Wireframe-itinerary-tourits.png)
+
+**Resultados de la busqueda**  
+Aqui se mostraran los resultados de las busquedas que el usuario realice.   
+
+![Wireframe-search-tourits](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/60055f00da2f08bfc72e5b672a2a93ac2f9ec49e/repo/img/Wireframe-search-tourits.png)
+
+**Para Agencias de Turismo**  
+
+**Inicio**  
+
+Brinda una vista general del estado actual de la agencia, incluyendo un resumen, comentarios o reseñas recientes de sus experiencias, y algunas reservas recientes.    
+
+![Wireframe-home-agency](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/a95d44f93bd9e52eba59b1e95ea86f7dc78c247e/repo/img/Wireframe-home-agency.png)  
+
+
+**Gestión de experiencias**  
+
+Permite a la agencia crear, editar o eliminar experiencias turísticas.  
+
+![Wireframe-Experience-Management-agency](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/a95d44f93bd9e52eba59b1e95ea86f7dc78c247e/repo/img/Wireframe-Experience-Management-agency.png)   
+
+
+**Reservas**   
+
+En esta sección se listan todas las reservas hechas por los turistas, con información detallada por experiencia y fecha. Incluye filtros para facilitar la gestión.    
+
+![Wireframe-Reservations-agency](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/60055f00da2f08bfc72e5b672a2a93ac2f9ec49e/repo/img/Wireframe-Reservations-agency.png)  
+
+
+**Consultas**  
+
+Las agencias pueden ver preguntas o dudas realizadas por los usuarios respecto a sus experiencias y responderlas desde esta misma vista.  
+
+![Wireframe-Consultations-agency](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/60055f00da2f08bfc72e5b672a2a93ac2f9ec49e/repo/img/Wireframe-Consultations-agency.png)  
+
+
+**Perfil de agencia**  
+
+Aquí se muestran los datos públicos de la agencia (nombre, descripcion, contacto, etc.), con opción de editar su información cuando sea necesario.  
+![Wireframe-Consultations-agency](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/60055f00da2f08bfc72e5b672a2a93ac2f9ec49e/repo/img/Wireframe-Consultations-agency.png)
+
+
 ### 4.4.2. Web Applications Wireflow Diagrams
 ### 4.4.2. Web Applications Mock-ups
 ### 4.4.3. Web Applications User Flow Diagrams
