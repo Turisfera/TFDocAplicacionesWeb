@@ -66,12 +66,43 @@ Para garantizar una experiencia de usuario fluida y eficiente, se ha definido un
 * **Búsqueda por palabras clave:** desde cualquier pantalla, para encontrar rápidamente destinos, usuarios o actividades relacionadas.
 * **Historial y búsquedas guardadas:** los usuarios podrán revisar búsquedas recientes y guardar filtros frecuentes para agilizar futuras consultas.
 
-### 4.2.5. Navigation Systems
-
+### 4.2.5. Navigation Systems  
 
 ## 4.3. Landing Page UI Design
-### 4.3.1. Landing Page Wireframe
-### 4.3.2. Landing Page Mock-up
+### 4.3.1. Landing Page Wireframe    
+
+La navegación principal está compuesta por secciones clave: Home, About Us, Benefits, How Does It Work?, FAQs, Contact, complementadas por botones visibles de Login y Sign Up, ubicados estratégicamente para facilitar el acceso de los usuarios según su necesidad. La estructura de la landing page fue pensada para acompañar al visitante de forma progresiva, desde entender qué ofrece la aplicación, hasta generar confianza e impulsar la acción de registro.  
+
+**Desktop Web Browser** 
+Se presentan las siguientes secciones:  
+
++ Navbar: Fijo en la parte superior con todas las secciones del sitio y botones a la derecha para iniciar sesión o registrarse.
++ Hero Section: Imagen destacada, con un eslogan directo y botón de llamada a la acción que invita al usuario a unirse.
++ About Us: Breve sección que explica la misión y vision de nuestra aplicación.
++ Benefits: Cards visuales donde se muestran los beneficios clave de la plataforma tanto para agencias como turistas, con íconos y descripciones breves.
++ How Does It Work?: Sección paso a paso explicando el funcionamiento de la plataforma tanto para turistas y agencias.
++ FAQs: Preguntas frecuentes en formato acordeón, de fácil lectura y con foco en resolver dudas comunes.
++ Contact: Formulario básico para consultas o sugerencias, junto con correo electrónico y numero de contacto.
++ Footer: Redes sociales y accesos rápidos adicionales.
+
+![Landing Page-Wireframe](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/678f981f0169c5a2ac6b3c842fbcddf71422b732/repo/img/Landing%20Page-Wireframe.png)
+
+**Mobile Web Browser**    
+En la versión móvil se incorpora un menú hamburguesa que al desplegarse permite acceder fácilmente a las secciones: Home, About Us, Benefits, How Does It Work?, FAQs, Contact, así como botones de Login y Sign Up.  
+
+![Landing Page- Wireframe- Mobile- Menu](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/5947df7ea421ae74c31bc68d3101b1f22d542ebb/repo/img/Landing%20Page-%20Wireframe-%20Mobile-%20Menu.png)
+
+Se mantiene una estructura vertical sencilla, optimizada para pantallas pequeñas, priorizando la legibilidad, la navegación por scroll y el toque con el dedo. Las secciones siguen el mismo orden y contenido que en la versión desktop.
+
+![Landing Page- Wireframe- Mobile](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/bf744d951a38e32a5e0fad68ddd75ed8f76ee302/repo/img/Landing%20Page-%20Wireframe-%20Mobile.png)
+
+
+### 4.3.2. Landing Page Mock-up  
+
+El mock-up de la landing page presenta un diseño limpio, moderno y enfocado en la experiencia del usuario. Se emplea una estructura clara y jerárquica que guía al visitante desde la propuesta de valor hasta la acción de registro, utilizando una paleta de colores coherente con la identidad visual del proyecto. Se prioriza la legibilidad, el contraste visual y la accesibilidad, adaptando el contenido tanto para pantallas de escritorio como para móviles, asegurando una experiencia fluida y responsiva en cualquier dispositivo.  
+
+![Landing Page- Mock Up](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/4f8afc52f1a370bde296fec5e8ecc92ab0a01c52/repo/img/Landing%20Page-%20Mock%20Up.png)
+
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 ### 4.4.2. Web Applications Wireflow Diagrams
