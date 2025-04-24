@@ -66,7 +66,7 @@ git push origin v1.0.0
 
 **Repositorios & Enlaces**
 - **Landing Page**: https://github.com/Turisfera/Landing-Page
-- **Repositorie**: https://github.com/Turisfera/TFDocAplicacionesWeb
+- **Repository**: https://github.com/Turisfera/TFDocAplicacionesWeb
 
 Cada repositorio sigue el mismo flujo GitFlow y cumple con las convenciones de naming y commits descritas.
 
