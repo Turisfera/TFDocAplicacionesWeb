@@ -238,16 +238,16 @@ Durante el Sprint 1 se completó la implementación de las principales secciones
 
 **Capturas de pantalla**  
 
-![Landing Page – Hero Section](img/landingevi1.png)  
+![Landing Page – Hero Section](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/bb8165cb3f7bdfd84938252f3070ff33113434c5/repo/img/landingevi1.png)  
 Hero section con imagen de fondo, título y CTA “Get started”. 
 
-![About Us Section](img/landingevi2.png)  
+![About Us Section](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/bb8165cb3f7bdfd84938252f3070ff33113434c5/repo/img/landingevi2.png)  
 Sección “About Us” mostrando misión y visión con imágenes.  
 
-![Benefits & How does it work](img/landingevi3.png)  
+![Benefits & How does it work](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/bb8165cb3f7bdfd84938252f3070ff33113434c5/repo/img/landingevi3.png)  
 Sección “Benefits” para turistas y agencias y “How does it work?” con tarjetas de pasos. 
 
-![FAQs & Contact](img/landingevi4.png)  
+![FAQs & Contact](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/bb8165cb3f7bdfd84938252f3070ff33113434c5/repo/img/landingevi4.png)  
 Sección de Preguntas Frecuentes y formulario de contacto.  
 **Video de demostración**  
 [Ver demo del Sprint 1]()  
@@ -278,7 +278,7 @@ Durante el Sprint 1 se desplegó la **Landing Page** en GitHub Pages, asegurando
 
 **Capturas de despliegue**  
 
-![Landing Page en producción](img/landingevi1.png)  
+![Landing Page en producción](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/bb8165cb3f7bdfd84938252f3070ff33113434c5/repo/img/landingevi1.png)  
 
 #### 5.2.1.8 Team Collaboration Insights for Sprint Review
 
@@ -302,10 +302,10 @@ Durante el Sprint 1 el equipo mantuvo una colaboración activa y organizada, apo
 
 **Capturas de GitHub Insights**  
 
-![Contribuciones Sprint 1](img/commits1.png)  
+![Contribuciones Sprint 1](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/457b53d2c1829cfe72827554a3db0e8b2684e5c9/repo/img/commits1.png)  
 Gráfico de actividad de commits durante el Sprint 1 (GitHub Insights).
 
-![Contributors](img/contributors1.png)  
+![Contributors](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/457b53d2c1829cfe72827554a3db0e8b2684e5c9/repo/img/contributors1.png)  
 
 **Observaciones:**  
 - Hubo un promedio de 12 commits por desarrollador en `feature/landing-page`.  
