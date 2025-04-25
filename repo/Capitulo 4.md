@@ -307,7 +307,19 @@ Ambas interfaces fueron diseñadas pensando en una experiencia fluida tanto en p
 ![Mockup-agency-profile-agency](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/d3cb25cddbb2b987d03de52888ac8b784b142851/repo/img/Mockup-agency-profile-agency.png) 
 
 ### 4.4.3. Web Applications User Flow Diagrams
-## 4.5. Web Applications Prototyping
+## 4.5. Web Applications Prototyping  
+En esta sección se presentan los prototipos de interfaz de usuario desarrollados para la versión web en navegadores de escritorio, tanto para turistas como para agencias. Estos prototipos simulan la navegación e interacción con las principales funcionalidades, en base a los flujos definidos previamente en los Wireflow Diagrams.
+
+Las decisiones de interacción se tomaron considerando principios de usabilidad, claridad visual, diseño inclusivo y una arquitectura de información coherente. Se priorizó una navegación intuitiva, adaptada al perfil y objetivos de cada usuario. El sistema de navegación, las jerarquías visuales y los tipos de interacción fueron diseñados para facilitar la exploración de contenido, la gestión de experiencias y la reserva de actividades turísticas.
+
+Los prototipos permiten visualizar el comportamiento del sistema ante las principales tareas definidas, asegurando una experiencia consistente y funcional. Se incluye una captura de pantalla y un enlace al video en Microsoft Stream donde se muestra la simulación de interacción correspondiente.
+
+![Web applications Prototyping](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/70941c8f2719e5708a2e09d475ae0fc0a3c823c6/repo/img/Web%20applications%20Prototyping%20.png)   
+
+Link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c505_upc_edu_pe/EWCB3XE4nJhNpKf_2ovj8msB2RBu4poQh48oS5TLIKm62w?e=7f7JKE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+
+
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
 Este diagrama muestra el sistema TripMatch dentro de su entorno, identificando cómo interactúa con usuarios y otros sistemas externos.
