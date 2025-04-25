@@ -392,6 +392,153 @@ Este diagrama profundiza en los componentes internos del contenedor principal
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
-### 4.7.2. Class Dictionary
+### 4.7.2. Class Dictionary  
+
+**User**
+
+Entidad base que representa a cualquier usuario de la plataforma.
+
+| Campo     | Tipo de dato | Descripción                        |
+|-----------|--------------|------------------------------------|
+| _id       | UUID         | Identificador único del usuario    |
+| firstName | String       | Nombre del usuario                 |
+| lastName  | String       | Apellido del usuario               |
+| number    | String       | Número de contacto                 |
+| email     | Email        | Correo del usuario                 |
+| password  | Password     | Contraseña del usuario             |
+
+**AgencyUser**
+
+Usuario que representa a una agencia, hereda de User.
+
+| Campo         | Tipo de dato     | Descripción                                |
+|---------------|------------------|--------------------------------------------|
+| agencyName    | String           | Nombre de la agencia                        |
+| ruc           | String           | Registro Único de Contribuyente             |
+| contactInfo   | String           | Información de contacto adicional           |
+| publicProfile | PublicProfile    | Perfil público visible de la agencia        |
+| location      | Location         | Ubicación física de la agencia              |
+
+**TouristUser**
+
+Usuario con rol de turista, hereda de `User`.
+
+| Campo       | Tipo de dato | Descripción                         |
+|-------------|--------------|-------------------------------------|
+| preferences | String[]     | Preferencias del turista            |
+
+**PublicProfile**
+
+Perfil público de una agencia.
+
+| Campo       | Tipo de dato | Descripción               |
+|-------------|--------------|---------------------------|
+| bio         | String       | Biografía o presentación  |
+| website     | String       | Página web oficial        |
+| socialLinks | List<String> | Redes sociales asociadas  |
+
+**Booking**
+
+Reserva hecha por un usuario para una experiencia.
+
+| Campo          | Tipo de dato | Descripción                              |
+|----------------|--------------|------------------------------------------|
+| id             | UUID         | ID de la reserva                         |
+| experienceId   | UUID         | ID de la experiencia reservada           |
+| userId         | UUID         | ID del usuario que reserva               |
+| bookingDate    | DateTime     | Fecha y hora de la reserva               |
+| numberOfPeople | Int          | Número de personas incluidas en la reserva |
+
+**Inquiry**
+
+Consulta hecha por un turista a una agencia.
+
+| Campo          | Tipo de dato | Descripción                          |
+|----------------|--------------|--------------------------------------|
+| id             | UUID         | ID de la consulta                    |
+| experienceId   | UUID         | ID de la experiencia consultada      |
+| fromUserId     | UUID         | ID del usuario que consulta          |
+| toAgencyUserId | UUID         | ID de la agencia consultada          |
+| question       | String       | Pregunta del usuario                 |
+| answer         | String       | Respuesta de la agencia              |
+| askedAt        | DateTime     | Fecha de consulta                    |
+| answeredAt     | DateTime     | Fecha de respuesta                   |
+
+**Review**
+
+Reseña hecha por un usuario sobre una experiencia.
+
+| Campo        | Tipo de dato | Descripción                            |
+|--------------|--------------|----------------------------------------|
+| id           | UUID         | ID de la reseña                        |
+| userId       | UUID         | ID del usuario que realizó la reseña   |
+| rating       | Number       | Calificación otorgada                  |
+| comment      | String       | Comentario de la reseña                |
+| createdAt    | DateTime     | Fecha de creación                      |
+| favorite     | Boolean      | Marca si es una reseña destacada       |
+
+**Experience**
+
+Experiencia publicada por una agencia.
+
+| Campo          | Tipo de dato   | Descripción                             |
+|----------------|----------------|-----------------------------------------|
+| id             | UUID           | ID de la experiencia                    |
+| title          | String         | Título de la experiencia                |
+| description    | String         | Descripción detallada                   |
+| location       | Location       | Ubicación de la experiencia             |
+| price          | Money          | Precio de la experiencia                |
+| duration       | String         | Duración estimada                       |
+| meetingPoint   | String         | Punto de encuentro                      |
+| schedule       | Schedule[]     | Horarios disponibles                    |
+| categories     | Category[]     | Categorías de la experiencia            |
+| photos         | Photo[]        | Imágenes relacionadas                   |
+| availableDates | AvailableDate[]| Fechas disponibles                      |
+
+**Category**
+
+Categoría asociada a una experiencia.
+
+| Campo | Tipo de dato | Descripción               |
+|-------|--------------|---------------------------|
+| _id   | UUID         | Identificador único       |
+| name  | String       | Nombre de la categoría    |
+
+**Schedule**
+
+Días y horarios disponibles para una experiencia.
+
+| Campo     | Tipo de dato | Descripción                  |
+|-----------|--------------|------------------------------|
+| dayOfWeek | String       | Día de la semana             |
+| times     | String[]     | Horarios disponibles         |
+
+**Photo**
+
+Imagen de una experiencia.
+
+| Campo   | Tipo de dato | Descripción               |
+|---------|--------------|---------------------------|
+| url     | String       | URL de la imagen          |
+| caption | String       | Descripción de la imagen  |
+
+**PriceRange**
+
+Rango de precios usado en filtros de búsqueda.
+
+| Campo | Tipo de dato | Descripción         |
+|-------|--------------|---------------------|
+| min   | Number       | Precio mínimo       |
+| max   | Number       | Precio máximo       |
+
+**Location**
+
+Ubicación geográfica.
+
+| Campo       | Tipo de dato | Descripción                 |
+|-------------|--------------|-----------------------------|
+| country     | String       | País                        |
+| city        | String       | Ciudad                      |
+
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
