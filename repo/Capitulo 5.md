@@ -151,20 +151,59 @@ Con esta configuración, cualquier actualización en `main`—ya sea HTML, CSS, 
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
 <table style="border-collapse: collapse; width: 100%;">
-<tbody>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint #</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint 1</strong></td></tr>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Planning Backlog</strong></td></tr>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Date</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">19/04/2025</td></tr>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Time</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3 horas</td></tr>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Location o Platform</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Discord</td></tr>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Prepared By</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Marcia Victoria Melgarejo Gomez-U20231C505</td></tr>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Attendees</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">María Patricia Hernández Uchuya-U202311258</br> Britney Delhy Qqueso Rodriguez-U20211G671</br> Rodrigo Alaya Cabrera-U202219481</br> Ariadna Geraldine Poma Muñoz-U20221D328</br> Jorge Enrique Guevara Tejada-U202316057</br> Raúl Adrian Medina Cruzado-U202210938</td></tr>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Goal &amp; User Stories</strong></td></tr>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 1 Goal</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Diseñp y desarrollo del landing page</td></tr>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 1 Velocity</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">15<strong></strong></td></tr>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sum of Story Points</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">15<strong></strong></td></tr>
-</tbody>
+  <tbody>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint #</strong></td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint 1</strong></td>
+    </tr>
+    <tr>
+      <td colspan="2" style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint Planning Backlog</strong></td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Date</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">19/04/2025</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Time</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3 horas</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Location o Platform</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Discord</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Prepared By</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Marcia Victoria Melgarejo Gomez - U20231C505</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Attendees</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
+        María Patricia Hernández Uchuya - U202311258<br>
+        Britney Delhy Qqueso Rodriguez - U20211G671<br>
+        Rodrigo Alaya Cabrera - U202219481<br>
+        Ariadna Geraldine Poma Muñoz - U20221D328<br>
+        Jorge Enrique Guevara Tejada - U202316057<br>
+        Raúl Adrian Medina Cruzado - U202210938
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint Goal &amp; User Stories</strong></td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 1 Goal</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Diseño y desarrollo del landing page</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 1 Velocity</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">15</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sum of Story Points</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">15</td>
+    </tr>
+  </tbody>
 </table>
+
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
 #### 5.2.1.3. Sprint Backlog 1
@@ -247,10 +286,54 @@ Con esta configuración, cualquier actualización en `main`—ya sea HTML, CSS, 
   </tbody>
 </table>
 
-
 #### 5.2.1.4. Development Evidence for Sprint Review
+
+Durante el Sprint 1, se desarrolló la **landing page** del sistema.  
+Las principales actividades incluyeron:
+- Diseño del prototipo en Figma (adjuntar enlace si hay uno)
+- Maquetación HTML y CSS del landing
+- Estructura básica con estilos iniciales responsivos
+- Uso de componentes reutilizables en JavaScript (si aplica)
+📂 **Commits relevantes:**
+- `feat: diseño base del landing`
+- `style: mejoras visuales en el home`
+- `fix: corrección de márgenes y fuentes`
+📁 **Ubicación en el repositorio:**
+- `/src/pages/Landing.html`
+- `/src/assets/styles/landing.css`
+
 #### 5.2.1.5. Execution Evidence for Sprint Review
+
+La ejecución se validó de la siguiente forma:
+- Visualización del landing en distintos navegadores (Chrome, Firefox, Edge)
+- Pruebas básicas de carga y visual responsiva
+- Validación de código HTML y CSS, [TripMach](https://turisfera.github.io/Landing-Page/)
+
+🧪 **Resultado:** La página carga correctamente, presenta un diseño alineado al prototipo y es navegable desde escritorio y móvil.
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+En este primer sprint se documentaron los siguientes aspectos:
+- Estructura base de archivos del proyecto (README)
+- Documentación de los estilos CSS utilizados
+- Guía para colaborar en la maquetación
+
+📄 **Ubicación de la documentación:**
+- `docs/estilos.md`
+- `README.md` → sección “Instalación y visualización del landing”
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
+Durante este sprint, el equipo mantuvo una colaboración efectiva a través de:
+- Reuniones virtuales semanales por Discord
+- Uso de GitHub Projects para tareas (tablero Kanban)
+- Comunicación constante por grupo de WhatsApp
+- Roles definidos: diseño, maquetación, revisión
+
+🗣️ **Observaciones del trabajo en equipo:**
+- Buena participación y cumplimiento de tareas asignadas
+- Se dio apoyo mutuo ante dudas técnicas
+- Todos los miembros participaron activamente en la revisión del landing page
