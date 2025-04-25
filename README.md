@@ -76,27 +76,12 @@
 </table>
 
 # **Student Outcomes**
-<table style="border-collapse: collapse; width: 100%; border: 1px solid black;">
-  <thead>
-    <tr style="border-bottom: 1px solid black;">
-      <th style="border-right: 1px solid black;">Criterio Específico</th>
-      <th style="border-right: 1px solid black;">Acciones Realizadas</th>
-      <th>Conclusiones</th>
-    </tr>
-  </thead>
-    <tbody>
-    <tr style="border-bottom: 1px solid black;">
-      <td style="border-right: 1px solid black;"><strong>Comunica oralmente con efectividad a diferentes rangos de audiencia.</strong></td>
-      <td style="border-right: 1px solid black;"><p><strong>TB1</strong></p></td>
-      <td></td>
-     </tr>
-     <tr style="border-bottom: 1px solid black;">
-      <td style="border-right: 1px solid black;"><strong>Comunica por escrito con efectividad a diferentes rangos de audiencia.</strong></td>
-      <td style="border-right: 1px solid black;"><p><strong>TB1</strong></p></td>
-      <td></td>
-     </tr>
-  </tbody>
-</table>
+
+| <div style="width:100px">Criterio específico</div> | <div align="center" style="width:250px">Acciones Realizadas</div> | <div align="center" style="width:250px">Conclusiones</div> |
+|:-------------------:|-------------------|------------|
+|Comunica oralmente con efectividad a diferentes rangos de audiencia| **- Marcia Melgarejo** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- María Hernández** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Britney Qqueso** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jorge Guevara** <br> **TB1:** En esta entrega me encargué de comunicarle a mi equipo cuál sería la metodología de trabajo. Además, realicé una entrevista enfocadas en el segmento de agencias, con el propósito de entender mejor sus necesidades y expectativas. Asimismo, colaboré con la revisión retroactiva de los avances de mis compañeros, brindándoles observaciones sobre los puntos de la documentación que podrían ser mejorados. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Rodrigo Alaya** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br><br> **- Ariadna Poma** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Raúl Medina** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br><br>| **TB1:** Cada integrante cumplió con las tareas que se le encomendaron, manteniendo una comunicación constante y efectiva que reforzó la confianza entre todos. Esto contribuyó al fortalecimiento del trabajo en equipo, un valor esencial en proyectos colaborativos. |
+|Comunica por escrito con efectividad a diferentes rangos de audiencia| **- Marcia Melgarejo** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- María Hernández** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Britney Qqueso** <br> **TB1:**  <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jorge Guevara** <br> **TB1:** Colabore con la elaboración de los alineamientos que el equipo seguiría durante el proceso de desarrollo. También, me encargue de hacer gran parte del capítulo 3.<br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Rodrigo Alaya** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Ariadna Poma** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br><br> **- Raúl Medina** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br><br> | **TB1:** Todos los miembros se involucraron en las tareas que les correspondían, manteniendo una comunicación fluida y eficiente que favoreció la construcción de confianza entre ellos. Como resultado, se potenció el trabajo en equipo, un elemento fundamental en proyectos conjuntos. |
+
 
 # **Project Report Online**
 
