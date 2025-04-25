@@ -75,8 +75,22 @@ Para garantizar una experiencia intuitiva y sin confusiones, las etiquetas emple
 * **Hoy, Próximo destino, Favoritos:** Agrupaciones cronológicas y personalizadas que facilitan el acceso a información relevante.
 
 ### 4.2.3. SEO Tags and Meta Tags 
+En TripMatch, el uso de etiquetas SEO y metaetiquetas se ha diseñado con el objetivo de mejorar la visibilidad de la plataforma en motores de búsqueda y garantizar una representación clara, concisa y coherente de la información. Se prioriza la simplicidad en la redacción de etiquetas, asegurando que los términos utilizados reflejen con precisión los intereses de los usuarios y las categorías de contenido disponibles. <br/>
 
+- **Etiquetas de título (title tags):** <br/>
+Usadas para definir claramente el contenido de cada página, incluyendo palabras clave específicas como “Mis itinerarios”, “Experiencias turísticas”, , o “Mis favoritos”. Ejemplo: TripMatch | Favoritos - City Tour Arequipa.
 
+- **Meta descripciones:** <br/>
+Resumen breve (de 140 a 160 caracteres) que describe el propósito de la página para motivar el clic del usuario. Ejemplo: Descubre y organiza experiencias únicas en tus destinos favoritos con Turisnap. ¡Planifica el viaje perfecto!.
+
+- **Etiquetas H1, H2 y H3:** <br/>
+Utilizadas jerárquicamente para organizar el contenido dentro de cada página. H1 se reserva para el nombre de la experiencia o destino principal; H2 para secciones como “Nombre del destino”, “Formulario de reseña” o “Preguntas”; y H3 para detalles secundarios.
+
+- **Keywords sugeridas para etiquetas SEO:** <br/>
+Experiencias, itinerarios turísticos, guía de viajes, turismo cultural, destinos recomendados, aventuras, agencias de turismo.
+
+- **Asociaciones entre etiquetas:** <br/>
+Se utilizan relaciones entre categorías para facilitar el posicionamiento cruzado. Por ejemplo: “Cusco” se asocia a “cultura”, “historia”, “Machu Picchu” y “gastronomía andina”, lo cual permite que diferentes tipos de búsquedas dirijan a contenidos relevantes y variados.
 
 ### 4.2.4. Searching Systems
 Para garantizar una experiencia de usuario fluida y eficiente, se ha definido un sistema de búsqueda que facilite el acceso a la información dentro de TripMatch. 
