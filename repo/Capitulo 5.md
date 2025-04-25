@@ -192,85 +192,30 @@ A continuación la matriz de Liderazgo y Colaboración (LACX), donde “L” ind
 | Medina Cruzado, Raúl Adrián             | Necxuz18            | C                | C                        | C                         | C                              | L              |
 | Melgarejo Gomez, Marcia Victoria        | Mevi1217            | L                | C                        | C                         | C                              | C              |
 
-#### 5.2.1.3. Sprint Backlog 1
-<table style="border-collapse: collapse; width: 100%;">
-  <thead>
-    <tr>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>N°</strong></td>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>User Story ID</strong></td>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Título</strong></td>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Story Points</strong></td>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Prioridad</strong></td>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Estado</strong></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border:1pt solid #000000;padding:5pt;">1</td>
-      <td style="border:1pt solid #000000;padding:5pt;">US01</td>
-      <td style="border:1pt solid #000000;padding:5pt;">Registro de usuario</td>
-      <td style="border:1pt solid #000000;padding:5pt;">8</td>
-      <td style="border:1pt solid #000000;padding:5pt;">Alta</td>
-      <td style="border:1pt solid #000000;padding:5pt;">Por hacer</td>
-    </tr>
-    <tr>
-      <td style="border:1pt solid #000000;padding:5pt;">2</td>
-      <td style="border:1pt solid #000000;padding:5pt;">US02</td>
-      <td style="border:1pt solid #000000;padding:5pt;">Validación de datos de registro</td>
-      <td style="border:1pt solid #000000;padding:5pt;">5</td>
-      <td style="border:1pt solid #000000;padding:5pt;">Alta</td>
-      <td style="border:1pt solid #000000;padding:5pt;">Por hacer</td>
-    </tr>
-    <tr>
-      <td style="border:1pt solid #000000;padding:5pt;">3</td>
-      <td style="border:1pt solid #000000;padding:5pt;">US03</td>
-      <td style="border:1pt solid #000000;padding:5pt;">Confirmación de contraseña</td>
-      <td style="border:1pt solid #000000;padding:5pt;">3</td>
-      <td style="border:1pt solid #000000;padding:5pt;">Alta</td>
-      <td style="border:1pt solid #000000;padding:5pt;">Por hacer</td>
-    </tr>
-    <tr>
-      <td style="border:1pt solid #000000;padding:5pt;">4</td>
-      <td style="border:1pt solid #000000;padding:5pt;">US04</td>
-      <td style="border:1pt solid #000000;padding:5pt;">Mensaje de bienvenida</td>
-      <td style="border:1pt solid #000000;padding:5pt;">8</td>
-      <td style="border:1pt solid #000000;padding:5pt;">Media</td>
-      <td style="border:1pt solid #000000;padding:5pt;">Por hacer</td>
-    </tr>
-    <tr>
-      <td style="border:1pt solid #000000;padding:5pt;">5</td>
-      <td style="border:1pt solid #000000;padding:5pt;">US06</td>
-      <td style="border:1pt solid #000000;padding:5pt;">Confirmación por correo electrónico</td>
-      <td style="border:1pt solid #000000;padding:5pt;">8</td>
-      <td style="border:1pt solid #000000;padding:5pt;">Alta</td>
-      <td style="border:1pt solid #000000;padding:5pt;">Por hacer</td>
-    </tr>
-    <tr>
-      <td style="border:1pt solid #000000;padding:5pt;">6</td>
-      <td style="border:1pt solid #000000;padding:5pt;">US07</td>
-      <td style="border:1pt solid #000000;padding:5pt;">Búsqueda de destinos turísticos</td>
-      <td style="border:1pt solid #000000;padding:5pt;">5</td>
-      <td style="border:1pt solid #000000;padding:5pt;">Alta</td>
-      <td style="border:1pt solid #000000;padding:5pt;">Por hacer</td>
-    </tr>
-    <tr>
-      <td style="border:1pt solid #000000;padding:5pt;">7</td>
-      <td style="border:1pt solid #000000;padding:5pt;">US15</td>
-      <td style="border:1pt solid #000000;padding:5pt;">Buscar destinos turísticos por nombre</td>
-      <td style="border:1pt solid #000000;padding:5pt;">3</td>
-      <td style="border:1pt solid #000000;padding:5pt;">Media</td>
-      <td style="border:1pt solid #000000;padding:5pt;">Por hacer</td>
-    </tr>
-    <tr>
-      <td style="border:1pt solid #000000;padding:5pt;">8</td>
-      <td style="border:1pt solid #000000;padding:5pt;">US10</td>
-      <td style="border:1pt solid #000000;padding:5pt;">Vista previa de destinos</td>
-      <td style="border:1pt solid #000000;padding:5pt;">5</td>
-      <td style="border:1pt solid #000000;padding:5pt;">Media</td>
-      <td style="border:1pt solid #000000;padding:5pt;">Por hacer</td>
-    </tr>
-  </tbody>
-</table>
+#### 5.2.1.3 Sprint Backlog 1
+
+El objetivo principal de Sprint 1 fue implementar y validar el flujo de registro de usuarios (User Stories EP01) y desarrollar las secciones clave del landing page para turistas (User Stories EP08) y agencias (EP09).
+
+![Sprint 1 Board](img/sprint1.png)  
+URL público del Board: [turisfera-sprint1](https://trello.com/invite/b/680a5d07ff18703eb7402872/ATTI2fd77ec1fb5032204a94d6d21ba910772CC16189/tripmatch-sprint-1)
+
+| **User Story** | **Work-Item/Task Id** | **Título**                                                     | **Estimation (Hours)** | **Assigned To**                        | **Status** |
+|---------------:|-----------------------|----------------------------------------------------------------|-----------------------:|----------------------------------------|------------|
+| US01          | T01                   | Implementar formulario de registro                            | 2                      | Britney Delhy Q. Rodríguez             | Done         |
+| US02          | T02                   | Validar datos de registro                                      | 2                      | Rodrigo Alaya Cabrera                  | IN-PROGRESS|
+| US03          | T03                   | Implementar confirmación de contraseña                         | 1                      | Marcia Victoria Melgarejo Gomez        | Done       |
+| US04          | T04                   | Mostrar mensaje de bienvenida dinámico                         | 1                      | Marcia Victoria Melgarejo Gomez        | To-do      |
+| US06          | T05                   | Configurar envío de correo de confirmación                     | 2                      | Ariadna Geraldine Poma Muñoz           | To-do        |
+| US28          | T06                   | Crear y maquetar sección “Benefits”                            | 2                      | María Patricia Hernández Uchuya        | Done       |
+| US29          | T07                   | Maquetar sección “About us”                                    | 1                      | María Patricia Hernández Uchuya        | Done       |
+| US30          | T08                   | Implementar navegación por scroll desde el header              | 1                      | Marcia Victoria Melgarejo Gomez        | To-do        |
+| US31          | T09                   | Vincular botón “Contact” con el formulario                     | 1                      | Rodrigo Alaya Cabrera                  | Done       |
+| US32          | T10                   | Añadir y enlazar botón “Sign Up” en el header                  | 1                      | Britney Delhy Q. Rodríguez             | Done       |
+| US33          | T11                   | Adaptar sección “Benefits” para agencias                       | 2                      | Raúl Adrián Medina Cruzado             | Done     |
+| US34          | T12                   | Desarrollar sección “How does it work?”                        | 2                      | Jorge Enrique Guevara Tejada           | Done      |
+| US35          | T13                   | Implementar formulario de contacto para agencias               | 2                      | Rodrigo Alaya Cabrera                  | Done      |
+| US36          | T14                   | Agregar enlaces “FAQs” y “About us” en el menú para agencias   | 1                      | Ariadna Geraldine Poma Muñoz           | Done      |
+| US37          | T15                   | Implementar flujo de registro para agencias desde landing page | 2                      | Jorge Enrique Guevara Tejada           | IN-PROGRESS      |
 
 #### 5.2.1.4. Development Evidence for Sprint Review
 
