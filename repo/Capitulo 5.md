@@ -149,61 +149,26 @@ Con esta configuración, cualquier actualización en `main`—ya sea HTML, CSS, 
 
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
-#### 5.2.1.1. Sprint Planning 1
-<table style="border-collapse: collapse; width: 100%;">
-  <tbody>
-    <tr>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint #</strong></td>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint 1</strong></td>
-    </tr>
-    <tr>
-      <td colspan="2" style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint Planning Backlog</strong></td>
-    </tr>
-    <tr>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Date</td>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">19/04/2025</td>
-    </tr>
-    <tr>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Time</td>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3 horas</td>
-    </tr>
-    <tr>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Location o Platform</td>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Discord</td>
-    </tr>
-    <tr>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Prepared By</td>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Marcia Victoria Melgarejo Gomez - U20231C505</td>
-    </tr>
-    <tr>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Attendees</td>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">
-        María Patricia Hernández Uchuya - U202311258<br>
-        Britney Delhy Qqueso Rodriguez - U20211G671<br>
-        Rodrigo Alaya Cabrera - U202219481<br>
-        Ariadna Geraldine Poma Muñoz - U20221D328<br>
-        Jorge Enrique Guevara Tejada - U202316057<br>
-        Raúl Adrian Medina Cruzado - U202210938
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint Goal &amp; User Stories</strong></td>
-    </tr>
-    <tr>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 1 Goal</td>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Diseño y desarrollo del landing page</td>
-    </tr>
-    <tr>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 1 Velocity</td>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">15</td>
-    </tr>
-    <tr>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sum of Story Points</td>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">15</td>
-    </tr>
-  </tbody>
-</table>
+En el primer sprint se implementó y desplegó la Landing Page.
+#### 5.2.1.1 Sprint Planning 1
 
+El Sprint Planning 1 es la reunión inicial de la iteración donde el equipo define la meta (Sprint Goal), revisa el Sprint anterior y selecciona los User Stories que abordará en este Sprint.
+
+| **Sprint #**                        | **Sprint 1**                                                                                                                                          |
+| ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint Planning Background**      |                                                                                                                                                       |
+| **Date**                            | 2025-04-19                                                                                                                                            |
+| **Time**                            | 07:00 PM – 10:00 PM                                                                                                                                    |
+| **Location / Platform**             | Discord                                                                                                                                               |
+| **Prepared by**                     | Marcia Victoria Melgarejo Gomez – U20231C505                                                                                                          |
+| **Attendees (to planning meeting)** | María Patricia Hernández Uchuya – U202311258<br>Britney Delhy Q. Rodríguez – U20211G671<br>Rodrigo Alaya Cabrera – U202219481<br>Ariadna G. Poma Muñoz – U20221D328<br>Jorge E. Guevara Tejada – U202316057<br>Raúl A. Medina Cruzado – U202210938 |
+| **Sprint 0 Review Summary**         | Definición del Product Backlog inicial, creación de wireframes y prototipo de landing page en Figma, y feedback temprano de stakeholders.             |
+| **Sprint 0 Retrospective Summary**  | Consolidación de roles (diseño vs. desarrollo), estandarización de estilos CSS y establecimiento de canales de comunicación (Discord, WhatsApp, GitHub). |
+| **Sprint 1 Goal**                   | Nos centramos en una página de destino totalmente adaptable. Creemos que ofrece una primera impresión clara y una experiencia de registro sencilla para los nuevos usuarios. Esto se confirmará cuando las pruebas de control de calidad informen un 100 % de éxito en el registro de tickets en entornos de prueba.. |
+| **Sprint 1 Velocity**               | 15                                                                                                                                                    |
+| **Sum of Story Points**             | 15                                                                                                                                                    |
+ 
+Los User Stories planificados (US01, US02, US03, US04, US06, US07, US15 y US10) y sus criterios de aceptación están detallados en la sección User Stories.
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
 #### 5.2.1.3. Sprint Backlog 1
