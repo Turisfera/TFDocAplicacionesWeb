@@ -253,19 +253,32 @@ Sección de Preguntas Frecuentes y formulario de contacto.
 [Ver demo del Sprint 1]()  
 Recorrido por el Landing Page mostrando navegación entre secciones y formulario de contacto.  
 
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+#### 5.2.1.6 Services Documentation Evidence for Sprint Review
 
-En este primer sprint se documentaron los siguientes aspectos:
-- Estructura base de archivos del proyecto (README)
-- Documentación de los estilos CSS utilizados
-- Guía para colaborar en la maquetación
+Nota: En el Sprint 1 nos enfocamos en el front-end (Landing Page) y no se implementaron Web Services.  
+La documentación de endpoints se trabajará a partir del Sprint 2, cuando desarrollemos e integremos la API.
 
-📄 **Ubicación de la documentación:**
-- `docs/estilos.md`
-- `README.md` → sección “Instalación y visualización del landing”
 
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+#### 5.2.1.7 Software Deployment Evidence for Sprint Review
 
+Durante el Sprint 1 se desplegó la **Landing Page** en GitHub Pages, asegurando que la versión en producción reflejara los cambios implementados:
+
+- **Configuración del repositorio**  
+  - Se creó la rama `gh-pages` a partir de `main`.  
+  - En Settings → Pages, se habilitó la publicación desde la rama `gh-pages` y la carpeta `/ (root)`.  
+- **Automatización básica**  
+  - Se añadió un workflow de GitHub Actions (`deploy.yml`) que compila y publica automáticamente al merge en `main`.  
+- **URL de producción**  
+  https://turisfera.github.io/Landing-Page/
+
+| **Repository**       | **Branch**       | **Commit Id** | **Commit Message**                     | **Committed on** |
+|----------------------|------------------|---------------|----------------------------------------|------------------|
+| user/turisfera-web   | gh-pages         | c4e1f2a       | ci: agregar workflow de despliegue     | 2025-04-22       |
+| user/turisfera-web   | gh-pages         | a1b2c3d       | feat: desplegar landing en GitHub Pages| 2025-04-22       |
+
+**Capturas de despliegue**  
+
+![Landing Page en producción](img/landingevi1.png)  
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
