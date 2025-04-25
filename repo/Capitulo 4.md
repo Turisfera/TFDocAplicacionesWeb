@@ -99,7 +99,7 @@ Para garantizar una experiencia de usuario fluida y eficiente, se ha definido un
 ### 4.2.5. Navigation Systems 
 El sistema de navegación de TripMatch ha sido diseñado para ofrecer una experiencia fluida, adaptada a los distintos perfiles de usuario: turistas y agencias. La interfaz presenta una navegación lateral que permite un acceso rápido a las funciones principales, y mantiene una estructura coherente en toda la plataforma.
 
-Navegación principal para turistas:
+**Navegación principal para turistas:**
 
 - **Inicio:** Punto de partida que muestra recomendaciones, novedades y experiencias destacadas.
 - **Buscar:** Permite explorar destinos y actividades mediante filtros avanzados.
