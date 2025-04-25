@@ -37,10 +37,10 @@ La arquitectura de información de Turisnap está diseñada para optimizar la ex
 Turisnap aplica distintos tipos de organización según la naturaleza de la información y la interacción esperada de cada tipo de usuario:
 
 **Organización jerárquica visual:** <br/>
-En la pantalla principal, se destacan cuatro caminos de acceso: “Gestión de experiencias”, "Reservas", "Consultas" y "Perfil de agencia"  para los turistas. Estos accesos están  a un costado de la pagina y guían la navegación desde el inicio. <br/>
+Para facilitar la navegación de los turistas desde la pantalla principal, se han dispuesto lateralmente cuatro accesos clave: “Inicio”, "Favoritos", "Itinerarios" y "Buscar". <br/>
 
 **Organización secuencial:** <br/>
-Se aplica en la planificación del itinerario personalizado del turista. La secuencia inicia con la elección del destino, seguida por la selección de fechas, intereses, tipo de experiencia, y finalmente la confirmación del itinerario. Del mismo modo, los anfitriones siguen una secuencia al registrar una nueva experiencia: tipo de actividad → ubicación → horarios → precio → publicación. <br/>
+Se aplica en la planificación del itinerario personalizado del turista. La secuencia inicia con la elección del destino, seguida por la selección de fechas, intereses, tipo de experiencia, y finalmente la confirmación del itinerario. Del mismo modo, los anfitriones siguen una secuencia al registrar una nueva experiencia: tipo de actividad → ubicación → horarios → publicación. <br/>
 
 **Organización matricial:** <br/>
 En la sección de resultados o búsqueda de experiencias, los usuarios pueden aplicar filtros combinados según categoría (aventura, cultural, gastronómica), ubicación, precio, idioma y duración. Los resultados se reorganizan dinámicamente según las selecciones del usuario. <br/>
