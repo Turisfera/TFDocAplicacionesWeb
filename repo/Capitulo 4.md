@@ -37,13 +37,13 @@ La arquitectura de información de Turisnap está diseñada para optimizar la ex
 Turisnap aplica distintos tipos de organización según la naturaleza de la información y la interacción esperada de cada tipo de usuario:
 
 **Organización jerárquica visual:** <br/>
-Para facilitar la navegación de los turistas desde la pantalla principal, se han dispuesto lateralmente cuatro accesos clave: “Inicio”, "Favoritos", "Itinerarios" y "Buscar". <br/>
+Para una navegación intuitiva, tanto turistas como agencias cuentan con accesos laterales clave en la pantalla principal. Los turistas disponen de "Inicio", "Favoritos", "Itinerarios" y "Buscar", mientras que las agencias acceden a "Inicio", "Gestión de experiencias", "Reservas", "Consultas" y "Perfil de agencia".<br/>
 
 **Organización secuencial:** <br/>
-Se aplica en la planificación del itinerario personalizado del turista. La secuencia inicia con la elección del destino, seguida por la selección de fechas, intereses, tipo de experiencia, y finalmente la confirmación del itinerario. Del mismo modo, los anfitriones siguen una secuencia al registrar una nueva experiencia: tipo de actividad → ubicación → horarios → publicación. <br/>
+En la planificación del itinerario personalizado para turistas, la secuencia comienza con la elección del destino, seguida por la selección de fechas, intereses y tipo de experiencia, culminando con la confirmación del itinerario. De manera similar, el registro de una nueva experiencia por parte de las agencias sigue este orden: selección de la experiencia, llenado de los campos requeridos (ubicación, horarios, etc.) y, finalmente, se guarda la informacion. <br/>
 
 **Organización matricial:** <br/>
-En la sección de resultados o búsqueda de experiencias, los usuarios pueden aplicar filtros combinados según categoría (aventura, cultural, gastronómica), ubicación, precio, idioma y duración. Los resultados se reorganizan dinámicamente según las selecciones del usuario. <br/>
+En la sección de resultados o búsqueda de experiencias, los usuarios refinan su búsqueda mediante filtros combinables por destino, día, presupuesto y tipo de experiencia. Los resultados se actualizan dinámicamente en función de las selecciones aplicadas. <br/>
 
 **Sistemas de categorización:**
 
@@ -51,24 +51,22 @@ En la sección de resultados o búsqueda de experiencias, los usuarios pueden ap
 
 - **Cronológica:** ordenamiento de experiencias según la fecha de publicación o según las fechas de viaje elegidas.
 
-- **Alfabética:** búsqueda por nombre de actividad, ciudad, o nombre del anfitrión.
+- **Alfabética:** búsqueda por tipo de experiencia, destino, o nombre de la agencia.
 
-- **Por audiencia:** se presentan interfaces diferenciadas para turistas (exploración y planificación de viajes) y anfitriones (gestión de experiencias ofrecidas y reservas).
+- **Por audiencia:** se presentan interfaces diferenciadas para turistas (busqueda y planificación de itinerarios) y agencias (gestión de experiencias ofrecidas y reservas).
 
 ### 4.2.2. Labeling Systems
 Para garantizar una experiencia intuitiva y sin confusiones, las etiquetas empleadas en TripMatch han sido diseñadas con base en principios de simplicidad, claridad y consistencia.
 
-**Etiquetas para la navegación principal (menú inferior):**
+**Etiquetas para la navegación principal (menú lateral):**
 * **Inicio:** Página principal con acceso a destinos sugeridos y novedades.
-* **Explorar:** Sección para descubrir nuevos lugares mediante filtros o búsqueda.
+* **Busqueda:** Sección para descubrir nuevos lugares mediante filtros o búsqueda.
 * **Itinerario:** Espacio donde el usuario puede planificar, visualizar y editar sus viajes.
-* **Amigos:** Conexiones sociales y visualización de itinerarios compartidos.
 * **Perfil:** Acceso a la información personal y configuraciones.
 
 **Etiquetas para acciones:**
 * **Buscar:** Entrada para realizar búsquedas de destinos o usuarios.
 * **Agregar al itinerario:** Acción rápida para incluir un destino en un viaje.
-* **Compartir:** Opción para enviar itinerarios a amigos.
 * **Editar / Eliminar:** Gestión de elementos guardados por el usuario.
 * **Guardar cambios:** Confirmación de edición o creación de itinerario.
 
