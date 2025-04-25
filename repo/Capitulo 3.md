@@ -53,7 +53,7 @@
 
 ## 3.3. Impact Mapping
 
-El Impact Mapping es una metodología visual y ágil que permite a las organizaciones enfocar el desarrollo de productos y servicios en función de sus metas estratégicas. Esta técnica facilita la identificación de una relación directa entre los objetivos del negocio, las acciones esperadas de los usuarios clave y las soluciones o funcionalidades que deben implementarse para lograr dichos objetivos.![Impact Mapping](img/Impact-map-Turisfera.png)
+El Impact Mapping es una metodología visual y ágil que permite a las organizaciones enfocar el desarrollo de productos y servicios en función de sus metas estratégicas. Esta técnica facilita la identificación de una relación directa entre los objetivos del negocio, las acciones esperadas de los usuarios clave y las soluciones o funcionalidades que deben implementarse para lograr dichos objetivos.![Impact Mapping](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/1777312b0514b539ecb3c39664e2068110f005d6/repo/img/Impact-map-Turisfera.png)
 
 ## 3.4. Product Backlog
 
