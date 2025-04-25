@@ -211,7 +211,11 @@ Realizar una consulta
 
 Realizar una reserva
 
-![Wireflow- Realizar reserva](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/dbbfda72981dfeb881f50f9a9da1804e8e7fb187/repo/img/Wireflow-%20Realizar%20reserva.png)  
+![Wireflow- Realizar reserva](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/dbbfda72981dfeb881f50f9a9da1804e8e7fb187/repo/img/Wireflow-%20Realizar%20reserva.png) 
+
+Seleccionar como experiencias como favoritas
+
+![Wireflow- Seleccionar Favoritas](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/dbbfda72981dfeb881f50f9a9da1804e8e7fb187/repo/img/Wireflow-%20Seleccionar%20Favoritas.png)    
 
 **Para Agencias de Turismo**    
 
@@ -239,9 +243,6 @@ Responder consultas a los clientes
 
 ![Wireflow- Responder consultas](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/dbbfda72981dfeb881f50f9a9da1804e8e7fb187/repo/img/Wireflow-%20Responder%20consultas.png)    
 
-Seleccionar como experiencias como favoritas
-
-![Wireflow- Seleccionar Favoritas](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/dbbfda72981dfeb881f50f9a9da1804e8e7fb187/repo/img/Wireflow-%20Seleccionar%20Favoritas.png)    
 
 Ver reseñas  
 
@@ -304,7 +305,62 @@ Ambas interfaces fueron diseñadas pensando en una experiencia fluida tanto en p
 
 ![Mockup-agency-profile-agency](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/d3cb25cddbb2b987d03de52888ac8b784b142851/repo/img/Mockup-agency-profile-agency.png) 
 
-### 4.4.3. Web Applications User Flow Diagrams
+### 4.4.3. Web Applications User Flow Diagrams    
+Esta sección presenta los User Flows diseñados para las aplicaciones web en su versión de escritorio, con el objetivo de cubrir rutas clave de interacción para cada tipo de usuario: turista y agencia. Cada flujo muestra visualmente el recorrido que realiza el usuario a través de la aplicación, integrando los mock-ups de las pantallas involucradas. Se consideran tanto rutas exitosas (happy path) como posibles rutas alternativas (unhappy path), asegurando que la navegación sea intuitiva, inclusiva y coherente con la arquitectura de información planteada.  
+
+**Turistas**  
+
+Como turista, quiero poder buscar experiencias turísticas.
+
+![User Flow- Buscar Experiencias](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/7ccc87cf2815964f6e1206a4a0527c4d4cb28478/repo/img/User%20Flow-%20Buscar%20Experiencias.png) 
+
+Como turista, quiero poder realizar una reserva.
+
+![User Flow- Realizar reserva](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/7ccc87cf2815964f6e1206a4a0527c4d4cb28478/repo/img/User%20Flow-%20Realizar%20reserva.png) 
+
+Como turista, quiero poder cancelar una reserva.
+
+![User Flow- Cancelar Reserva](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/7ccc87cf2815964f6e1206a4a0527c4d4cb28478/repo/img/User%20Flow-%20Cancelar%20Reserva.png) 
+
+Como turista, quiero poder dejar una reseña sobre una experiencia realizada.
+
+![User Flow- Dejar reseña](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/7ccc87cf2815964f6e1206a4a0527c4d4cb28478/repo/img/User%20Flow-%20Dejar%20rese%C3%B1a.png) 
+
+Como turista, quiero poder realizar una consulta a una agencia.
+
+![User Flow- Realizar consulta](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/7ccc87cf2815964f6e1206a4a0527c4d4cb28478/repo/img/User%20Flow-%20Realizar%20consulta.png) 
+
+**Para Agencias de Turismo**   
+
+Como agencia, quiero poder registrar una nueva experiencia turística.
+
+![User Flow- Añadir experiencia](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/f191cc6947bce2b8b64c5d30abe2870922079e2c/repo/img/User%20Flow-%20A%C3%B1adir%20experiencia.png) 
+
+Como agencia, quiero poder editar una experiencia ya creada.
+
+![User Flow- Editar Experiencia](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/f191cc6947bce2b8b64c5d30abe2870922079e2c/repo/img/User%20Flow-%20Editar%20Experiencia.png) 
+
+Como agencia, quiero poder eliminar una experiencia ya creada.
+
+![User Flow- Eliminar experiencia](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/f191cc6947bce2b8b64c5d30abe2870922079e2c/repo/img/User%20Flow-%20Eliminar%20experiencia.png) 
+
+Como agencia, quiero poder ver las reservas recibidas.
+
+![User Flow- Reservas](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/f191cc6947bce2b8b64c5d30abe2870922079e2c/repo/img/User%20Flow-%20Reservas.png) 
+
+Como agencia, quiero poder responder consultas de los turistas.
+
+![User Flow- Añadir respuesta](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/f191cc6947bce2b8b64c5d30abe2870922079e2c/repo/img/User%20Flow-%20A%C3%B1adir%20respuesta.png) 
+
+Como agencia, quiero poder ver las respuestas enviadas.
+
+![User Flow- Ver respuestas](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/f191cc6947bce2b8b64c5d30abe2870922079e2c/repo/img/User%20Flow-%20Ver%20respuestas.png) 
+
+Como agencia, quiero poder editar mi perfil.
+
+![User Flow- Editar perfil de agencia](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/f191cc6947bce2b8b64c5d30abe2870922079e2c/repo/img/User%20Flow-%20Editar%20perfil%20de%20agencia.png) 
+
+
 ## 4.5. Web Applications Prototyping  
 En esta sección se presentan los prototipos de interfaz de usuario desarrollados para la versión web en navegadores de escritorio, tanto para turistas como para agencias. Estos prototipos simulan la navegación e interacción con las principales funcionalidades, en base a los flujos definidos previamente en los Wireflow Diagrams.
 
