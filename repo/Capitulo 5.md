@@ -217,30 +217,41 @@ URL público del Board: [turisfera-sprint1](https://trello.com/invite/b/680a5d07
 | US36          | T14                   | Agregar enlaces “FAQs” y “About us” en el menú para agencias   | 1                      | Ariadna Geraldine Poma Muñoz           | Done      |
 | US37          | T15                   | Implementar flujo de registro para agencias desde landing page | 2                      | Jorge Enrique Guevara Tejada           | IN-PROGRESS      |
 
-#### 5.2.1.4. Development Evidence for Sprint Review
+#### 5.2.1.4 Development Evidence for Sprint Review
 
-Durante el Sprint 1, se desarrolló la **landing page** del sistema.  
-Las principales actividades incluyeron:
-- Diseño del prototipo en Figma (adjuntar enlace si hay uno)
-- Maquetación HTML y CSS del landing
-- Estructura básica con estilos iniciales responsivos
-- Uso de componentes reutilizables en JavaScript (si aplica)
-📂 **Commits relevantes:**
-- `feat: diseño base del landing`
-- `style: mejoras visuales en el home`
-- `fix: corrección de márgenes y fuentes`
-📁 **Ubicación en el repositorio:**
-- `/src/pages/Landing.html`
-- `/src/assets/styles/landing.css`
+Durante el Sprint 1 se avanzó en la implementación de la landing page del sistema, incluyendo prototipado, maquetación responsiva y ajustes visuales. A continuación se listan los commits más relevantes:
 
-#### 5.2.1.5. Execution Evidence for Sprint Review
+| **Repository**        | **Branch**                | **Commit Id** | **Commit Message**                   | **Commit Message Body**                                                                                                              | **Committed on** |
+|-----------------------|---------------------------|---------------|--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|------------------|
+| user/turisfera-web    | feature/landing-page      | a1b2c3d       | feat: diseño base del landing        | Se implementó la estructura HTML de la landing page en `/src/pages/index.html` y los estilos iniciales en `/src/styles/styles.css`. | 2025-04-19       |
+| user/turisfera-web    | feature/landing-page      | d4e5f6a       | style: mejoras visuales en el home   | Ajustes de color, tipografías y espaciados en la sección principal para alinear con el prototipo de Figma y mejorar la legibilidad.       | 2025-04-20       |
+| user/turisfera-web    | feature/landing-page      | f7g8h9i       | fix: corrección de márgenes y fuentes | Corrección de inconsistencias en márgenes y fuentes para asegurar uniformidad entre vistas de escritorio y móvil.                         | 2025-04-21       |
+#### 5.2.1.5 Execution Evidence for Sprint Review
 
-La ejecución se validó de la siguiente forma:
-- Visualización del landing en distintos navegadores (Chrome, Firefox, Edge)
-- Pruebas básicas de carga y visual responsiva
-- Validación de código HTML y CSS, [TripMach](https://turisfera.github.io/Landing-Page/)
+Durante el Sprint 1 se completó la implementación de las principales secciones del **Landing Page** y se validó su diseño y navegación.
 
-🧪 **Resultado:** La página carga correctamente, presenta un diseño alineado al prototipo y es navegable desde escritorio y móvil.
+**Principales avances ejecutados**  
+- Header fijo con navegación y botones “Log in” / “Sign Up”  
+- Secciones “Home”, “About us”, “Benefits”, “How does it work?”, “FAQs” y “Contact”  
+- Scroll suave y comportamiento responsive en toda la página  
+- Formulario de contacto operativo y validado  
+
+**Capturas de pantalla**  
+
+![Landing Page – Hero Section](img/landingevi1.png)  
+Hero section con imagen de fondo, título y CTA “Get started”. 
+
+![About Us Section](img/landingevi2.png)  
+Sección “About Us” mostrando misión y visión con imágenes.  
+
+![Benefits & How does it work](img/landingevi3.png)  
+Sección “Benefits” para turistas y agencias y “How does it work?” con tarjetas de pasos. 
+
+![FAQs & Contact](img/landingevi4.png)  
+Sección de Preguntas Frecuentes y formulario de contacto.  
+**Video de demostración**  
+[Ver demo del Sprint 1]()  
+Recorrido por el Landing Page mostrando navegación entre secciones y formulario de contacto.  
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
