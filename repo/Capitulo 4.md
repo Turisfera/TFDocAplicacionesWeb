@@ -114,7 +114,6 @@ La interfaz cuenta con una barra de navegación dinámica que varía según el p
 Se divide en Inicio, favoritos, itinerarios y una barra de busqueda rapida, donde podra buscar agencias y experiencias por nombre.
 
 
-
 **Itinerarios**  
 
 Se muestra el historial de reservas del usuario, permitiéndole ver detalles de sus próximas experiencias y acceder fácilmente a la información necesaria para cada actividad.    
@@ -125,6 +124,11 @@ Se muestra el historial de reservas del usuario, permitiéndole ver detalles de 
 Aqui se mostraran los resultados de las busquedas que el usuario realice.   
 
 ![Wireframe-search-tourits](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/60055f00da2f08bfc72e5b672a2a93ac2f9ec49e/repo/img/Wireframe-search-tourits.png)
+
+**visualización de perfil de agencias para Turistas**  
+
+Aquí se muestran los datos públicos de la agencia (nombre, descripcion, contacto, etc.), con opción de editar su información cuando sea necesario.  
+![Wireframe-agency-profile-tourits](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/2d313351d5e938869d86695983c970985068b092/repo/img/Wireframe-agency-profile-tourits.png) 
 
 **Para Agencias de Turismo**  
 
@@ -159,11 +163,45 @@ Las agencias pueden ver preguntas o dudas realizadas por los usuarios respecto a
 **Perfil de agencia**  
 
 Aquí se muestran los datos públicos de la agencia (nombre, descripcion, contacto, etc.), con opción de editar su información cuando sea necesario.  
-![Wireframe-Consultations-agency](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/60055f00da2f08bfc72e5b672a2a93ac2f9ec49e/repo/img/Wireframe-Consultations-agency.png)
+
+![Wireframe-agency-profile-agency](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/2d313351d5e938869d86695983c970985068b092/repo/img/Wireframe-agency-profile-agency.png) 
 
 
 ### 4.4.2. Web Applications Wireflow Diagrams
-### 4.4.2. Web Applications Mock-ups
+### 4.4.2. Web Applications Mock-ups  
+
+La propuesta de Mock-ups busca representar visualmente la experiencia final de la aplicación web, integrando los principios de diseño inclusivo, jerarquía informativa, accesibilidad y consistencia visual. El diseño responde a las necesidades diferenciadas de turistas y agencias, priorizando la claridad en la navegación, la eficiencia en las tareas y la estética alineada al propósito del proyecto.  
+Se utilizó un diseño que incluye una paleta de colores asociada al turismo sostenible, íconos comprensibles, tipografía legible y componentes reutilizables que aseguran coherencia y escalabilidad. 
+
+**Turistas**  
+Los mock-ups para turistas presentan una interfaz enfocada en la exploración de experiencias, con una sección de inicio que destaca filtros intuitivos y recomendaciones personalizadas. Las secciones de favoritos e itinerarios permiten un acceso rápido al contenido guardado o reservado. La barra de búsqueda se presenta de forma accesible en todo momento, facilitando la localización de agencias o experiencias específicas.  
+
+**Inicio**  
+
+![Mockup-home-tourits](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/2d313351d5e938869d86695983c970985068b092/repo/img/Mockup-home-tourits.png)
+
+**Favoritos**
+
+![Mockup-favorites-tourits](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/2d313351d5e938869d86695983c970985068b092/repo/img/Mockup-favorites-tourits.png)  
+**Itinerarios**  
+
+![Mockup-itinerary-tourits](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/2d313351d5e938869d86695983c970985068b092/repo/img/Mockup-itinerary-tourits.png) 
+ 
+**Resultados de la busqueda**  
+
+![Mockup-search-tourits](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/2d313351d5e938869d86695983c970985068b092/repo/img/Mockup-search-tourits.png)
+
+**visualización de perfil de agencias para Turistas**  
+
+![Mockup-agency-profile-tourits](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/2d313351d5e938869d86695983c970985068b092/repo/img/Mockup-agency-profile-tourits.png) 
+
+**Agencias**
+En el caso de las agencias, los mock-ups reflejan una interfaz orientada a la gestión eficiente. En el inicio se muestran métricas clave, últimas reservas y reseñas recientes. Las secciones de gestión de experiencias y reservas cuentan con formularios organizados, tablas y botones de acción bien jerarquizados. Se prioriza la claridad en los procesos de edición, respuesta a consultas y mantenimiento del perfil público de la agencia.
+
+Ambas interfaces fueron diseñadas pensando en una experiencia fluida tanto en pantallas de escritorio como en dispositivos con distintas resoluciones, asegurando una estructura responsive y accesible para todos los usuarios.
+
+
+
 ### 4.4.3. Web Applications User Flow Diagrams
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
