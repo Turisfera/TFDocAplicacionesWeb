@@ -169,18 +169,84 @@ Con esta configuración, cualquier actualización en `main`—ya sea HTML, CSS, 
 #### 5.2.1.2. Aspect Leaders and Collaborators
 #### 5.2.1.3. Sprint Backlog 1
 <table style="border-collapse: collapse; width: 100%;">
-<tbody>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>**N°**</strong></td><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>**User Story ID**</strong></td><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>**Title**</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>**Story Points**</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>**Priority**</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>**Status**</strong></td>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>**1**</strong></td><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US01</strong></td><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Registro de Usuario</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>8</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Alta</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>To-Do</strong></td>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>**2**</strong></td><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US02</strong></td><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Validación de datos de registro</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>5</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Alta</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>To-Do</strong></td>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>**3**</strong></td><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US03</strong></td><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Confirmación de contraseña</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>3</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Alta</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>To-Do</strong></td>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>**4**</strong></td><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US04</strong></td><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Mensaje de Bienvenida</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>8</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Media</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>To-Do</strong></td>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>**5**</strong></td><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US06</strong></td><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Confirmación por correo electrónico</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>8</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Alta</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>To-Do</strong></td>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>**6**</strong></td><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US07</strong></td><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Búsqueda de destinos turísticos</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>5</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Alta</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>To-Do</strong></td>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>**7**</strong></td><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US15</strong></td><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Buscar destinos turísticos por nombre</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>3</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Media</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>To-Do</strong></td>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>**8**</strong></td><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US10</strong></td><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Vista previa de destinos</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>5</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Media</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>To-Do</strong></td>
-</tbody>
+  <thead>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>N°</strong></td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>User Story ID</strong></td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Título</strong></td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Story Points</strong></td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Prioridad</strong></td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Estado</strong></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;">1</td>
+      <td style="border:1pt solid #000000;padding:5pt;">US01</td>
+      <td style="border:1pt solid #000000;padding:5pt;">Registro de usuario</td>
+      <td style="border:1pt solid #000000;padding:5pt;">8</td>
+      <td style="border:1pt solid #000000;padding:5pt;">Alta</td>
+      <td style="border:1pt solid #000000;padding:5pt;">Por hacer</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;">2</td>
+      <td style="border:1pt solid #000000;padding:5pt;">US02</td>
+      <td style="border:1pt solid #000000;padding:5pt;">Validación de datos de registro</td>
+      <td style="border:1pt solid #000000;padding:5pt;">5</td>
+      <td style="border:1pt solid #000000;padding:5pt;">Alta</td>
+      <td style="border:1pt solid #000000;padding:5pt;">Por hacer</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;">3</td>
+      <td style="border:1pt solid #000000;padding:5pt;">US03</td>
+      <td style="border:1pt solid #000000;padding:5pt;">Confirmación de contraseña</td>
+      <td style="border:1pt solid #000000;padding:5pt;">3</td>
+      <td style="border:1pt solid #000000;padding:5pt;">Alta</td>
+      <td style="border:1pt solid #000000;padding:5pt;">Por hacer</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;">4</td>
+      <td style="border:1pt solid #000000;padding:5pt;">US04</td>
+      <td style="border:1pt solid #000000;padding:5pt;">Mensaje de bienvenida</td>
+      <td style="border:1pt solid #000000;padding:5pt;">8</td>
+      <td style="border:1pt solid #000000;padding:5pt;">Media</td>
+      <td style="border:1pt solid #000000;padding:5pt;">Por hacer</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;">5</td>
+      <td style="border:1pt solid #000000;padding:5pt;">US06</td>
+      <td style="border:1pt solid #000000;padding:5pt;">Confirmación por correo electrónico</td>
+      <td style="border:1pt solid #000000;padding:5pt;">8</td>
+      <td style="border:1pt solid #000000;padding:5pt;">Alta</td>
+      <td style="border:1pt solid #000000;padding:5pt;">Por hacer</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;">6</td>
+      <td style="border:1pt solid #000000;padding:5pt;">US07</td>
+      <td style="border:1pt solid #000000;padding:5pt;">Búsqueda de destinos turísticos</td>
+      <td style="border:1pt solid #000000;padding:5pt;">5</td>
+      <td style="border:1pt solid #000000;padding:5pt;">Alta</td>
+      <td style="border:1pt solid #000000;padding:5pt;">Por hacer</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;">7</td>
+      <td style="border:1pt solid #000000;padding:5pt;">US15</td>
+      <td style="border:1pt solid #000000;padding:5pt;">Buscar destinos turísticos por nombre</td>
+      <td style="border:1pt solid #000000;padding:5pt;">3</td>
+      <td style="border:1pt solid #000000;padding:5pt;">Media</td>
+      <td style="border:1pt solid #000000;padding:5pt;">Por hacer</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;">8</td>
+      <td style="border:1pt solid #000000;padding:5pt;">US10</td>
+      <td style="border:1pt solid #000000;padding:5pt;">Vista previa de destinos</td>
+      <td style="border:1pt solid #000000;padding:5pt;">5</td>
+      <td style="border:1pt solid #000000;padding:5pt;">Media</td>
+      <td style="border:1pt solid #000000;padding:5pt;">Por hacer</td>
+    </tr>
+  </tbody>
 </table>
+
 
 #### 5.2.1.4. Development Evidence for Sprint Review
 #### 5.2.1.5. Execution Evidence for Sprint Review
