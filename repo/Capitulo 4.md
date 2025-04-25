@@ -31,8 +31,29 @@ Además, se prioriza la experiencia del usuario mediante interacciones suaves, m
 
 
 ## 4.2. Information Architecture
-### 4.2.1. Organization Systems
+La arquitectura de información de Turisnap está diseñada para optimizar la experiencia de navegación de dos tipos principales de usuarios: turistas y anfitriones. La plataforma permite a los turistas descubrir experiencias personalizadas, planificar itinerarios y conectar con guías locales o grupos de viaje. A su vez, los anfitriones pueden registrar y ofrecer actividades o tours. La estructura de la información facilita la exploración del contenido, mejora la accesibilidad a las funciones principales y permite una experiencia fluida e intuitiva.
 
+### 4.2.1. Organization Systems 
+Turisnap aplica distintos tipos de organización según la naturaleza de la información y la interacción esperada de cada tipo de usuario:
+
+**Organización jerárquica visual:** <br/>
+En la pantalla principal, se destacan cuatro caminos de acceso: “Gestión de experiencias”, "Reservas", "Consultas" y "Perfil de agencia"  para los turistas. Estos accesos están  a un costado de la pagina y guían la navegación desde el inicio. <br/>
+
+**Organización secuencial:** <br/>
+Se aplica en la planificación del itinerario personalizado del turista. La secuencia inicia con la elección del destino, seguida por la selección de fechas, intereses, tipo de experiencia, y finalmente la confirmación del itinerario. Del mismo modo, los anfitriones siguen una secuencia al registrar una nueva experiencia: tipo de actividad → ubicación → horarios → precio → publicación. <br/>
+
+**Organización matricial:** <br/>
+En la sección de resultados o búsqueda de experiencias, los usuarios pueden aplicar filtros combinados según categoría (aventura, cultural, gastronómica), ubicación, precio, idioma y duración. Los resultados se reorganizan dinámicamente según las selecciones del usuario. <br/>
+
+**Sistemas de categorización:**
+
+- **Por tópicos:** actividades, anfitriones, turistas, destinos, experiencias recomendadas, favoritos, historial de viajes.
+
+- **Cronológica:** ordenamiento de experiencias según la fecha de publicación o según las fechas de viaje elegidas.
+
+- **Alfabética:** búsqueda por nombre de actividad, ciudad, o nombre del anfitrión.
+
+- **Por audiencia:** se presentan interfaces diferenciadas para turistas (exploración y planificación de viajes) y anfitriones (gestión de experiencias ofrecidas y reservas).
 
 ### 4.2.2. Labeling Systems
 Para garantizar una experiencia intuitiva y sin confusiones, las etiquetas empleadas en TripMatch han sido diseñadas con base en principios de simplicidad, claridad y consistencia.
