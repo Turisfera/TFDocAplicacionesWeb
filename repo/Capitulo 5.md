@@ -170,7 +170,28 @@ El Sprint Planning 1 es la reunión inicial de la iteración donde el equipo def
  
 Los User Stories planificados (US01, US02, US03, US04, US06, US07, US15 y US10) y sus criterios de aceptación están detallados en la sección User Stories.
 
-#### 5.2.1.2. Aspect Leaders and Collaborators
+#### 5.2.1.2 Aspect Leaders and Collaborators
+
+En el Sprint 1 se definieron los siguientes aspectos clave para la implementación del Landing Page:
+
+1. **UI/UX Design**  
+2. **Maquetación HTML/CSS**  
+3. **Desarrollo JavaScript**  
+4. **Documentación de Servicios**  
+5. **Despliegue**  
+
+A continuación la matriz de Liderazgo y Colaboración (LACX), donde “L” indica el líder de cada aspecto y “C” a sus colaboradores:
+
+| **Team Member (Last Name, First Name)** | **GitHub Username** | **UI/UX Design** | **Maquetación HTML/CSS** | **Desarrollo JavaScript** | **Documentación de Servicios** | **Despliegue** |
+|-----------------------------------------|---------------------|:----------------:|:------------------------:|:-------------------------:|:------------------------------:|:--------------:|
+| Hernández Uchuya, María Patricia        | Bal2220             | C                | C                        | C                         | C                              | C              |
+| Qqueso Rodríguez, Britney Delhy         | Brit2801            | C                | L                        | C                         | C                              | C              |
+| Alaya Cabrera, Rodrigo                  | ALAYA1803           | C                | C                        | L                         | C                              | C              |
+| Poma Muñoz, Ariadna Geraldine           | InAsui              | C                | C                        | C                         | L                              | C              |
+| Guevara Tejada, Jorge Enrique           | Jorgito170          | C                | C                        | C                         | L                              | C              |
+| Medina Cruzado, Raúl Adrián             | Necxuz18            | C                | C                        | C                         | C                              | L              |
+| Melgarejo Gomez, Marcia Victoria        | Mevi1217            | L                | C                        | C                         | C                              | C              |
+
 #### 5.2.1.3. Sprint Backlog 1
 <table style="border-collapse: collapse; width: 100%;">
   <thead>
