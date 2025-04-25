@@ -176,15 +176,15 @@ Se utilizó un diseño que incluye una paleta de colores asociada al turismo sos
 **Turistas**  
 Los mock-ups para turistas presentan una interfaz enfocada en la exploración de experiencias, con una sección de inicio que destaca filtros intuitivos y recomendaciones personalizadas. Las secciones de favoritos e itinerarios permiten un acceso rápido al contenido guardado o reservado. La barra de búsqueda se presenta de forma accesible en todo momento, facilitando la localización de agencias o experiencias específicas.  
 
-**Inicio**  
+**Inicio**    
 
 ![Mockup-home-tourits](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/2d313351d5e938869d86695983c970985068b092/repo/img/Mockup-home-tourits.png)
 
-**Favoritos**
+**Favoritos**  
 
-![Mockup-favorites-tourits](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/2d313351d5e938869d86695983c970985068b092/repo/img/Mockup-favorites-tourits.png)  
-**Itinerarios**  
-
+![Mockup-favorites-tourits](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/2d313351d5e938869d86695983c970985068b092/repo/img/Mockup-favorites-tourits.png) 
+ 
+**Itinerarios**    
 ![Mockup-itinerary-tourits](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/2d313351d5e938869d86695983c970985068b092/repo/img/Mockup-itinerary-tourits.png) 
  
 **Resultados de la busqueda**  
@@ -195,12 +195,34 @@ Los mock-ups para turistas presentan una interfaz enfocada en la exploración de
 
 ![Mockup-agency-profile-tourits](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/2d313351d5e938869d86695983c970985068b092/repo/img/Mockup-agency-profile-tourits.png) 
 
-**Agencias**
+**Para Agencias de Turismo**    
 En el caso de las agencias, los mock-ups reflejan una interfaz orientada a la gestión eficiente. En el inicio se muestran métricas clave, últimas reservas y reseñas recientes. Las secciones de gestión de experiencias y reservas cuentan con formularios organizados, tablas y botones de acción bien jerarquizados. Se prioriza la claridad en los procesos de edición, respuesta a consultas y mantenimiento del perfil público de la agencia.
 
 Ambas interfaces fueron diseñadas pensando en una experiencia fluida tanto en pantallas de escritorio como en dispositivos con distintas resoluciones, asegurando una estructura responsive y accesible para todos los usuarios.
 
+**Inicio**    
 
+![Mockup-home-agency](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/d3cb25cddbb2b987d03de52888ac8b784b142851/repo/img/Mockup-home-agency.png)  
+
+
+**Gestión de experiencias**  
+
+![Mockup-Experience-Management-agency](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/d3cb25cddbb2b987d03de52888ac8b784b142851/repo/img/Mockup-Experience-Management-agency.png)   
+
+
+**Reservas**       
+
+![Mockup-Reservations-agency](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/d3cb25cddbb2b987d03de52888ac8b784b142851/repo/img/Mockup-Reservations-agency.png)  
+
+
+**Consultas**      
+
+![Mockup-Consultations-agency](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/d3cb25cddbb2b987d03de52888ac8b784b142851/repo/img/Mockup-Consultations-agency.png)  
+
+
+**Perfil de agencia**   
+
+![Mockup-agency-profile-agency](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/d3cb25cddbb2b987d03de52888ac8b784b142851/repo/img/Mockup-agency-profile-agency.png) 
 
 ### 4.4.3. Web Applications User Flow Diagrams
 ## 4.5. Web Applications Prototyping
