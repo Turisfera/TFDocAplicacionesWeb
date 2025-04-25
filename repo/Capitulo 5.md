@@ -280,15 +280,35 @@ Durante el Sprint 1 se desplegó la **Landing Page** en GitHub Pages, asegurando
 
 ![Landing Page en producción](img/landingevi1.png)  
 
-#### 5.2.1.8. Team Collaboration Insights during Sprint
+#### 5.2.1.8 Team Collaboration Insights for Sprint Review
 
-Durante este sprint, el equipo mantuvo una colaboración efectiva a través de:
-- Reuniones virtuales semanales por Discord
-- Uso de GitHub Projects para tareas (tablero Kanban)
-- Comunicación constante por grupo de WhatsApp
-- Roles definidos: diseño, maquetación, revisión
+Durante el Sprint 1 el equipo mantuvo una colaboración activa y organizada, apoyándose en los siguientes canales y herramientas:
 
-🗣️ **Observaciones del trabajo en equipo:**
-- Buena participación y cumplimiento de tareas asignadas
-- Se dio apoyo mutuo ante dudas técnicas
-- Todos los miembros participaron activamente en la revisión del landing page
+- **Comunicación:** reuniones diarias breves por Discord y canal de WhatsApp para consultas rápidas.  
+- **Gestión de tareas:** GitHub Projects con tablero Kanban (“To Do”, “In Progress”, “Done”).  
+- **Control de versiones:** GitHub para commits, pull requests y revisiones de código.  
+
+**Participación por miembro (commits en `feature/landing-page`):**
+
+| Miembro                              | Commits |
+|--------------------------------------|--------:|
+| María Patricia Hernández Uchuya      |       13 |
+| Britney Delhy Q. Rodríguez           |     2 |
+| Rodrigo Alaya Cabrera                |       3 |
+| Ariadna Geraldine Poma Muñoz         |       54 |
+| Jorge Enrique Guevara Tejada         |       1 |
+| Raúl Adrián Medina Cruzado           |       4 |
+| Marcia Victoria Melgarejo Gomez      |       4 |
+
+**Capturas de GitHub Insights**  
+
+![Contribuciones Sprint 1](img/commits1.png)  
+Gráfico de actividad de commits durante el Sprint 1 (GitHub Insights).
+
+![Contributors](img/contributors1.png)  
+
+**Observaciones:**  
+- Hubo un promedio de 12 commits por desarrollador en `feature/landing-page`.  
+- El equipo cumplió el 100 % de las tareas “Done” planificadas para Sprint 1.  
+- La comunicación asíncrona en Discord permitió resolver bloqueos técnicos en menos de 1 hora.
+
