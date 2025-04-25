@@ -160,6 +160,15 @@ La interfaz cuenta con una barra de navegación dinámica que varía según el p
 **Para turistas**  
 Se divide en Inicio, favoritos, itinerarios y una barra de busqueda rapida, donde podra buscar agencias y experiencias por nombre.
 
+**Inicio**  
+Esta sección presenta un buscador con filtros (por tipo, lugar, precio y dia) que permite a los usuarios explorar experiencias turísticas de manera rápida. También se muestran recomendaciones personalizadas según intereses y tendencias.  
+
+![Wireframe-home-tourits](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/60055f00da2f08bfc72e5b672a2a93ac2f9ec49e/repo/img/Wireframe-home-tourits.png)
+
+*Favoritos*
+Aquí se almacenan todas las experiencias marcadas como favoritas por el turista, permitiendo un acceso rápido a opciones que desea considerar más adelante.   
+
+![Wireframe-favorites-tourits](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/60055f00da2f08bfc72e5b672a2a93ac2f9ec49e/repo/img/Wireframe-favorites-tourits.png)
 
 **Itinerarios**  
 
