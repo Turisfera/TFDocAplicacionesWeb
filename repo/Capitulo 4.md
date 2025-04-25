@@ -419,7 +419,10 @@ Este diagrama profundiza en los componentes internos del contenedor principal
 ![Container Diagram TripMatch](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/24f26df0194624dd22d187b0970bfe8789b22c93/repo/img/DiagramadeComponentes-TripMatch.png)
 
 ## 4.7. Software Object-Oriented Design
-### 4.7.1. Class Diagrams
+### 4.7.1. Class Diagrams   
+
+![Diagrama de Clase](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/304aabc577cdb5cc4438162d01076c550aa6284e/repo/img/Aplicaciones%20Web%20-%20P%C3%A1gina%201%20(12).png)
+
 ### 4.7.2. Class Dictionary  
 
 **User**
