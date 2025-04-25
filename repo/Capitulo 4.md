@@ -542,3 +542,4 @@ Ubicación geográfica.
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
+![Database-Diagram](https://github.com/Turisfera/TFDocAplicacionesWeb/blob/9a9b262a3d89d0c8b172d7cd74b30bc24068da9c/repo/img/Turisfera-Database-Diagram.png)
