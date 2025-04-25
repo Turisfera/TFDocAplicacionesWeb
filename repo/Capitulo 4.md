@@ -96,7 +96,24 @@ Para garantizar una experiencia de usuario fluida y eficiente, se ha definido un
 * **Búsqueda por palabras clave:** desde cualquier pantalla, para encontrar rápidamente destinos, usuarios o actividades relacionadas.
 * **Historial y búsquedas guardadas:** los usuarios podrán revisar búsquedas recientes y guardar filtros frecuentes para agilizar futuras consultas.
 
-### 4.2.5. Navigation Systems  
+### 4.2.5. Navigation Systems 
+El sistema de navegación de TripMatch ha sido diseñado para ofrecer una experiencia fluida, adaptada a los distintos perfiles de usuario: turistas y agencias. La interfaz presenta una navegación lateral que permite un acceso rápido a las funciones principales, y mantiene una estructura coherente en toda la plataforma.
+
+Navegación principal para turistas:
+
+- **Inicio:** Punto de partida que muestra recomendaciones, novedades y experiencias destacadas.
+- **Buscar:** Permite explorar destinos y actividades mediante filtros avanzados.
+- **Itinerario:** Sección donde se visualizan, editan o crean nuevos itinerarios personalizados.
+- **Favoritos:** Muestra actividades o lugares marcados previamente por el usuario.
+- **Perfil:** Configuraciones personales, historial de viajes y preferencias.
+
+**Navegación principal para anfitriones/agencias:**
+
+- **Inicio:** Resumen de actividades programadas, métricas de interacción y novedades del sistema.
+- **Gestión de experiencias:** Sección dedicada a registrar, editar o eliminar experiencias ofrecidas.
+- **Reservas:** Visualización y administración de las reservas generadas por los turistas.
+- **Consultas:** Interacción con usuarios interesados, resolución de dudas o solicitud de detalles.
+- **Perfil de agencia:** Modificación de datos institucionales, fotos y verificación de identidad.
 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe    
